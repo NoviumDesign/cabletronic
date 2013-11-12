@@ -1,0 +1,14 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2896" measuredH="400" mockupW="2855" mockupH="361">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::SiteMap" x="41" y="90" w="-1" h="-1" measuredW="2855" measuredH="310" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cabletronic.se%0A-%20Sortiment%0A--%20Bild%20%26%20ljud%0A--%20Kabel%0A--%20Kabelvindor%0A--%20Kablage%0A--%20Kontaktdon%0A--%20Paneler%20%26%20boxar%0A--%20Tillbeh%F6r%0A--%20Verktyg%0A--%20M%E4t%20%26%20test%0A--%20Utf%F6rs%E4ljning%0A-%20Kundanpassning%0A-%20Kunskapsbanken%0A-%20Kundtj%E4nst%0A--%20Kontakta%20oss%0A--%20Skapa%20support%E4rende%0A--%20RMA%0A--%20%C5F-ans%F6kan%0A-%20Om%20oss%0A--%20Om%20Cabletronic%0A--%20Kontakta%20oss%0A--%20Nyheter%0A--%20Milj%F6policy%0A--%20Leverant%F6rer%0A-%20Konto%0A-%20Kundvagn</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="41" y="39" w="-1" h="-1" measuredW="422" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sidkarta%20Cabletronic.se</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

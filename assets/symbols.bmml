@@ -1,0 +1,238 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1454" measuredH="244" mockupW="1394" mockupH="224">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="60" y="20" w="1394" h="140" measuredW="1394" measuredH="140" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Navbar%20desktop</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="38" controlTypeID="__group__" x="0" y="0" w="1394" h="140" measuredW="1394" measuredH="140" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <controlName>Navbar%20desktop</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="95" w="1394" h="45" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>12326171</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="__group__" x="4" y="0" w="1386" h="95" measuredW="1386" measuredH="95" zOrder="1" locked="false" isInGroup="38">
+              <controlProperties>
+                <controlName>Navbar%20desktop</controlName>
+              </controlProperties>
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1386" h="95" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <borderStyle>none</borderStyle>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::SearchBox" x="1077" y="53" w="212" h="-1" measuredW="200" measuredH="25" zOrder="1" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <text>S%F6k%20produkter/artikelnummer</text>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="1077" y="17" w="209" h="-1" measuredW="209" measuredH="21" zOrder="2" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <size>18</size>
+                    <text>Ring%20oss%3A%2008%20-%20447%2043%2050</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="__group__" x="97" y="14" w="280" h="69" measuredW="280" measuredH="69" zOrder="3" locked="false" isInGroup="1">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="0" w="280" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="3"/>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="59" w="280" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="3"/>
+                    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="0" y="16" w="280" h="-1" measuredW="280" measuredH="43" zOrder="2" locked="false" isInGroup="3">
+                      <controlProperties>
+                        <color>12326171</color>
+                        <text>CABLETRONIC</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="1062" y="95" w="112" h="45" measuredW="110" measuredH="32" zOrder="2" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>12326171</color>
+                <icon>ContactIcon%7Cmedium</icon>
+                <menuIcon>true</menuIcon>
+                <text>Konto</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="1168" y="95" w="127" h="45" measuredW="109" measuredH="32" zOrder="3" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>12326171</color>
+                <icon>CartIcon%7Cmedium</icon>
+                <menuIcon>false</menuIcon>
+                <text>Varukorg</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="98" y="95" w="99" h="45" measuredW="99" measuredH="27" zOrder="4" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>12326171</color>
+                <menuIcon>true</menuIcon>
+                <text>Sortiment</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="191" y="95" w="129" h="45" measuredW="121" measuredH="27" zOrder="5" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>12326171</color>
+                <menuIcon>false</menuIcon>
+                <text>Kundanpassning</text>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="314" y="95" w="133" h="45" measuredW="122" measuredH="27" zOrder="6" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>12326171</color>
+                <menuIcon>false</menuIcon>
+                <text>Kunskapsbanken</text>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="441" y="95" w="99" h="45" measuredW="105" measuredH="27" zOrder="7" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>12326171</color>
+                <menuIcon>true</menuIcon>
+                <text>Kundtj%E4nst</text>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="534" y="95" w="83" h="45" measuredW="87" measuredH="27" zOrder="8" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>12326171</color>
+                <menuIcon>true</menuIcon>
+                <text>Om%20oss</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="__group__" x="60" y="80" w="773" h="140" measuredW="773" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Navbar%20tablet</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="95" w="773" h="45" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+          <controlProperties>
+            <color>12326171</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="768" h="95" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SearchBox" x="548" y="51" w="212" h="-1" measuredW="200" measuredH="25" zOrder="2" locked="false" isInGroup="1">
+          <controlProperties>
+            <text>S%F6k%20produkter/artikelnummer</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="548" y="15" w="209" h="-1" measuredW="209" measuredH="21" zOrder="3" locked="false" isInGroup="1">
+          <controlProperties>
+            <size>18</size>
+            <text>Ring%20oss%3A%2008%20-%20447%2043%2050</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="14" y="11" w="280" h="69" measuredW="280" measuredH="69" zOrder="4" locked="false" isInGroup="1">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="0" w="280" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="4"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="59" w="280" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="4"/>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="0" y="16" w="280" h="-1" measuredW="280" measuredH="43" zOrder="2" locked="false" isInGroup="4">
+              <controlProperties>
+                <color>12326171</color>
+                <text>CABLETRONIC</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="544" y="95" w="100" h="45" measuredW="91" measuredH="32" zOrder="5" locked="false" isInGroup="1">
+          <controlProperties>
+            <color>12326171</color>
+            <icon>ContactIcon%7Cmedium</icon>
+            <menuIcon>false</menuIcon>
+            <text>Konto</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="638" y="95" w="121" h="45" measuredW="113" measuredH="32" zOrder="6" locked="false" isInGroup="1">
+          <controlProperties>
+            <color>12326171</color>
+            <icon>CartIcon%7Cmedium</icon>
+            <menuIcon>false</menuIcon>
+            <text>%20Varukorg</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="14" y="95" w="99" h="45" measuredW="84" measuredH="27" zOrder="7" locked="false" isInGroup="1">
+          <controlProperties>
+            <color>12326171</color>
+            <icon>ListIcon%7Csmall</icon>
+            <menuIcon>false</menuIcon>
+            <text>%20Meny</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="__group__" x="60" y="140" w="327" h="104" measuredW="327" measuredH="104" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Navbar%20phone</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="59" w="327" h="45" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>12326171</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="23" y="0" w="280" h="49" measuredW="280" measuredH="49" zOrder="1" locked="false" isInGroup="2">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="56" y="0" w="169" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="1"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="56" y="39" w="169" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="1"/>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="0" y="12" w="280" h="-1" measuredW="168" measuredH="27" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>12326171</color>
+                <size>24</size>
+                <text>CABLETRONIC</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="256" y="59" w="63" h="45" measuredW="53" measuredH="27" zOrder="2" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>12326171</color>
+            <icon>CartIcon%7Csmall</icon>
+            <menuIcon>false</menuIcon>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="12" y="59" w="67" h="45" measuredW="46" measuredH="27" zOrder="3" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>12326171</color>
+            <icon>ListIcon%7Csmall</icon>
+            <menuIcon>false</menuIcon>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="79" y="59" w="58" h="45" measuredW="53" measuredH="27" zOrder="4" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>12326171</color>
+            <icon>SearchIcon%7Csmall</icon>
+            <menuIcon>false</menuIcon>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="195" y="59" w="61" h="45" measuredW="53" measuredH="27" zOrder="5" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>12326171</color>
+            <icon>ContactIcon%7Csmall</icon>
+            <menuIcon>false</menuIcon>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="137" y="59" w="58" h="45" measuredW="53" measuredH="27" zOrder="6" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>12326171</color>
+            <icon>GeoLocation2Icon%7Csmall</icon>
+            <menuIcon>false</menuIcon>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
