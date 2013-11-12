@@ -708,7 +708,7 @@
         <stroke>dotted</stroke>
       </controlProperties>
     </control>
-    <control controlID="314" controlTypeID="com.balsamiq.mockups::HRule" x="1761" y="982" w="662" h="-1" measuredW="100" measuredH="10" zOrder="113" locked="false" isInGroup="-1">
+    <control controlID="314" controlTypeID="com.balsamiq.mockups::HRule" x="1761" y="982" w="696" h="-1" measuredW="100" measuredH="10" zOrder="113" locked="false" isInGroup="-1">
       <controlProperties>
         <stroke>dotted</stroke>
       </controlProperties>
@@ -777,7 +777,7 @@
         <text>3.395%3A-</text>
       </controlProperties>
     </control>
-    <control controlID="329" controlTypeID="com.balsamiq.mockups::HRule" x="1733" y="1306" w="662" h="-1" measuredW="100" measuredH="10" zOrder="128" locked="false" isInGroup="-1">
+    <control controlID="329" controlTypeID="com.balsamiq.mockups::HRule" x="1753" y="1306" w="707" h="-1" measuredW="100" measuredH="10" zOrder="128" locked="false" isInGroup="-1">
       <controlProperties>
         <stroke>dotted</stroke>
       </controlProperties>
