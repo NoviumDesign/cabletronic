@@ -1,0 +1,1440 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="3664" measuredH="2332" mockupW="3624" mockupH="2292">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="40" y="243" w="1394" h="2000" measuredW="450" measuredH="400" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cabletronic%0Ahttp%3A//cabletronic.se</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Component" x="124" y="442" w="1234" h="1890" measuredW="1234" measuredH="1890" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1234" h="1890"/>
+        <override controlID="1" x="19" y="0" w="56" h="1890"/>
+        <override controlID="2" x="95" y="0" w="56" h="1890"/>
+        <override controlID="3" x="171" y="0" w="56" h="1890"/>
+        <override controlID="4" x="247" y="0" w="56" h="1890"/>
+        <override controlID="5" x="323" y="0" w="56" h="1890"/>
+        <override controlID="6" x="399" y="0" w="56" h="1890"/>
+        <override controlID="7" x="475" y="0" w="56" h="1890"/>
+        <override controlID="8" x="551" y="0" w="56" h="1890"/>
+        <override controlID="9" x="627" y="0" w="56" h="1890"/>
+        <override controlID="10" x="703" y="0" w="56" h="1890"/>
+        <override controlID="11" x="779" y="0" w="56" h="1890"/>
+        <override controlID="12" x="855" y="0" w="56" h="1890"/>
+        <override controlID="13" x="931" y="0" w="56" h="1890"/>
+        <override controlID="14" x="1007" y="0" w="56" h="1890"/>
+        <override controlID="15" x="1083" y="0" w="56" h="1890"/>
+        <override controlID="16" x="1159" y="0" w="56" h="1890"/>
+        <override controlID="-1"/>
+        <src>./assets/gridsystem.bmml%23Wide%20desktop</src>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Component" x="41" y="40" w="434" h="165" measuredW="434" measuredH="165" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/gridsystem.bmml%23Wide%20desktop%20lable</src>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Paragraph" x="323" y="2176" w="1013" h="80" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <color>16777215</color>
+        <size>14</size>
+        <text>%5BIntegritetspolicy%5D%20%20%7C%20%20%5BAnv%E4ndning%20av%20cookies%5D%20%20%7C%20%20%A9%202013%20Cabletronic%20AB</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::Component" x="1483" y="40" w="320" h="165" measuredW="320" measuredH="165" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/gridsystem.bmml%23Desktop%20lable</src>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::Component" x="1489" y="317" w="992" h="1000" measuredW="992" measuredH="1000" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/gridsystem.bmml%23Dektop</src>
+      </controlProperties>
+    </control>
+    <control controlID="159" controlTypeID="com.balsamiq.mockups::Component" x="40" y="316" w="1394" h="140" measuredW="1394" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Navbar%20desktop</src>
+      </controlProperties>
+    </control>
+    <control controlID="161" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1483" y="243" w="1004" h="2000" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cabletronic%0Ahttp%3A//cabletronic.se</text>
+      </controlProperties>
+    </control>
+    <control controlID="162" controlTypeID="com.balsamiq.mockups::Component" x="2517" y="40" w="320" h="165" measuredW="320" measuredH="165" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/gridsystem.bmml%23Tablet%20lable</src>
+      </controlProperties>
+    </control>
+    <control controlID="163" controlTypeID="com.balsamiq.mockups::Component" x="2523" y="317" w="768" h="1000" measuredW="768" measuredH="1000" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/gridsystem.bmml%23Tablet</src>
+      </controlProperties>
+    </control>
+    <control controlID="164" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="2521" y="243" w="775" h="2000" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cabletronic%0Ahttp%3A//cabletronic.se</text>
+      </controlProperties>
+    </control>
+    <control controlID="183" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="3337" y="243" w="327" h="1107" measuredW="450" measuredH="400" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cabletronic%0Ahttp%3A//cabletronic.se</text>
+      </controlProperties>
+    </control>
+    <control controlID="184" controlTypeID="com.balsamiq.mockups::Component" x="3337" y="40" w="320" h="165" measuredW="320" measuredH="165" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/gridsystem.bmml%23Phone%20lable</src>
+      </controlProperties>
+    </control>
+    <control controlID="185" controlTypeID="com.balsamiq.mockups::Component" x="3339" y="317" w="320" h="1006" measuredW="320" measuredH="1006" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="320" h="1006"/>
+        <override controlID="1" x="10" y="0" w="140" h="1006"/>
+        <override controlID="2" x="150" y="0" w="20" h="1006"/>
+        <override controlID="3" x="170" y="0" w="140" h="1006"/>
+        <override controlID="-1"/>
+        <src>./assets/gridsystem.bmml%23Phone</src>
+      </controlProperties>
+    </control>
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::Component" x="1483" y="316" w="1003" h="140" measuredW="1003" measuredH="140" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="94" w="1002" h="44"/>
+        <override controlID="3" x="4" y="0" w="998" h="94"/>
+        <override controlID="5" x="748" y="94" w="112" h="44"/>
+        <override controlID="6" x="854" y="94" w="127" h="44"/>
+        <override controlID="7" x="25" y="94" w="99" h="44"/>
+        <override controlID="8" x="118" y="94" w="129" h="44"/>
+        <override controlID="9" x="241" y="94" w="133" h="44"/>
+        <override controlID="10" x="368" y="94" w="99" h="44"/>
+        <override controlID="11" x="461" y="94" w="83" h="44"/>
+        <override controlID="38" x="0" y="0" w="1003" h="140"/>
+        <override controlID="38:7" x="369" y="95" w="99" h="45"/>
+        <override controlID="38:1:3" x="23" y="14" w="280" h="69"/>
+        <override controlID="38:1:3:1" x="0" y="59" w="280" h="10"/>
+        <override controlID="38:2" x="748" y="95" w="112" h="45"/>
+        <override controlID="3:1" x="761" y="53" w="212" h="25"/>
+        <override controlID="38:1:2" x="759" y="17" w="209" h="21"/>
+        <override controlID="38:1:3:0" x="0" y="0" w="280" h="10"/>
+        <override controlID="3:3:2" x="0" y="15" w="280" h="43"/>
+        <override controlID="38:0" x="0" y="95" w="1003" h="45"/>
+        <override controlID="3:3" x="23" y="13" w="280" h="68"/>
+        <override controlID="3:0" x="0" y="0" w="998" h="94"/>
+        <override controlID="38:1:3:2" x="0" y="16" w="280" h="43"/>
+        <override controlID="3:3:0" x="0" y="0" w="280" h="10"/>
+        <override controlID="38:6" x="242" y="95" w="133" h="45"/>
+        <override controlID="3:2" x="761" y="17" w="209" h="21"/>
+        <override controlID="38:1:1" x="759" y="53" w="212" h="25"/>
+        <override controlID="38:1" x="4" y="0" w="999" h="95"/>
+        <override controlID="38:3" x="854" y="95" w="127" h="45"/>
+        <override controlID="38:5" x="119" y="95" w="129" h="45"/>
+        <override controlID="-1"/>
+        <override controlID="3:3:1" x="0" y="58" w="280" h="10"/>
+        <override controlID="38:8" x="462" y="95" w="83" h="45"/>
+        <override controlID="38:1:0" x="0" y="0" w="999" h="95"/>
+        <override controlID="38:4" x="26" y="95" w="99" h="45"/>
+        <src>./assets/symbols.bmml%23Navbar%20desktop</src>
+      </controlProperties>
+    </control>
+    <control controlID="213" controlTypeID="com.balsamiq.mockups::Component" x="2523" y="317" w="773" h="140" measuredW="773" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="95" w="773" h="45"/>
+        <override controlID="1" x="0" y="0" w="768" h="95"/>
+        <override controlID="2" x="548" y="51" w="212" h="-1"/>
+        <override controlID="3" x="548" y="15" w="209" h="-1"/>
+        <override controlID="4" x="14" y="11" w="280" h="69"/>
+        <override controlID="5" x="544" y="95" w="100" h="45"/>
+        <override controlID="6" x="638" y="95" w="121" h="45"/>
+        <override controlID="7" x="14" y="95" w="99" h="45"/>
+        <override controlID="4:2" x="0" y="16" w="280" h="-1"/>
+        <override controlID="-1"/>
+        <override controlID="4:1" x="0" y="59" w="280" h="-1"/>
+        <override controlID="4:0" x="0" y="0" w="280" h="-1"/>
+        <src>./assets/symbols.bmml%23Navbar%20tablet</src>
+      </controlProperties>
+    </control>
+    <control controlID="261" controlTypeID="com.balsamiq.mockups::Component" x="3337" y="325" w="327" h="104" measuredW="327" measuredH="104" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Navbar%20phone</src>
+      </controlProperties>
+    </control>
+    <control controlID="390" controlTypeID="com.balsamiq.mockups::Component" x="40" y="1799" w="1394" h="416" measuredW="1394" measuredH="416" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer%20desktop</src>
+      </controlProperties>
+    </control>
+    <control controlID="391" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="147" y="470" w="-1" h="-1" measuredW="188" measuredH="24" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hem%2C%20Sortiment%2C%20Kabelvindor</text>
+      </controlProperties>
+    </control>
+    <control controlID="392" controlTypeID="com.balsamiq.mockups::Component" x="142" y="511" w="205" h="498" measuredW="205" measuredH="498" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0:0">
+          <selectedIndex>3</selectedIndex>
+        </override>
+        <src>./assets/symbols.bmml%23Produktmeny</src>
+      </controlProperties>
+    </control>
+    <control controlID="394" controlTypeID="com.balsamiq.mockups::Canvas" x="374" y="621" w="966" h="37" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="395" controlTypeID="com.balsamiq.mockups::Label" x="383" y="629" w="-1" h="-1" measuredW="66" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Visningsvy</text>
+      </controlProperties>
+    </control>
+    <control controlID="397" controlTypeID="com.balsamiq.mockups::Icon" x="500" y="627" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HLinesIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="398" controlTypeID="com.balsamiq.mockups::Icon" x="467" y="627" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ThumbnailsIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="399" controlTypeID="com.balsamiq.mockups::ComboBox" x="1222" y="627" w="-1" h="-1" measuredW="108" measuredH="24" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Sortera%20efter%0AA-%D6%0APris%0APlacering</text>
+      </controlProperties>
+    </control>
+    <control controlID="400" controlTypeID="com.balsamiq.mockups::Canvas" x="140" y="465" w="1200" h="35" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+      </controlProperties>
+    </control>
+    <control controlID="401" controlTypeID="com.balsamiq.mockups::Canvas" x="373" y="513" w="967" h="100" measuredW="100" measuredH="70" zOrder="26" locked="false" isInGroup="-1"/>
+    <control controlID="402" controlTypeID="com.balsamiq.mockups::Label" x="383" y="519" w="-1" h="-1" measuredW="28" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>F%E4rg</text>
+      </controlProperties>
+    </control>
+    <control controlID="403" controlTypeID="com.balsamiq.mockups::CheckBox" x="383" y="540" w="-1" h="-1" measuredW="44" measuredH="22" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>R%F6d</text>
+      </controlProperties>
+    </control>
+    <control controlID="404" controlTypeID="com.balsamiq.mockups::CheckBox" x="383" y="562" w="-1" h="-1" measuredW="39" measuredH="22" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bl%E5</text>
+      </controlProperties>
+    </control>
+    <control controlID="405" controlTypeID="com.balsamiq.mockups::CheckBox" x="383" y="584" w="-1" h="-1" measuredW="52" measuredH="22" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Svart</text>
+      </controlProperties>
+    </control>
+    <control controlID="406" controlTypeID="com.balsamiq.mockups::Label" x="459" y="519" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>L%E4ngd</text>
+      </controlProperties>
+    </control>
+    <control controlID="407" controlTypeID="com.balsamiq.mockups::CheckBox" x="459" y="540" w="-1" h="-1" measuredW="47" measuredH="22" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>20m</text>
+      </controlProperties>
+    </control>
+    <control controlID="408" controlTypeID="com.balsamiq.mockups::CheckBox" x="459" y="562" w="-1" h="-1" measuredW="47" measuredH="22" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>30m</text>
+      </controlProperties>
+    </control>
+    <control controlID="409" controlTypeID="com.balsamiq.mockups::CheckBox" x="459" y="584" w="-1" h="-1" measuredW="46" measuredH="22" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>50m</text>
+      </controlProperties>
+    </control>
+    <control controlID="411" controlTypeID="com.balsamiq.mockups::Image" x="372" y="711" w="132" h="136" measuredW="77" measuredH="79" zOrder="35" locked="false" isInGroup="-1"/>
+    <control controlID="412" controlTypeID="com.balsamiq.mockups::SubTitle" x="524" y="711" w="-1" h="-1" measuredW="418" measuredH="23" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>VINDA%201505F%20BNC/S-BNC/C%20GT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="416" controlTypeID="com.balsamiq.mockups::List" x="524" y="737" w="249" h="93" measuredW="100" measuredH="126" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="417" controlTypeID="com.balsamiq.mockups::Button" x="1203" y="731" w="61" h="27" measuredW="46" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="419" controlTypeID="com.balsamiq.mockups::IconLabel" x="1205" y="702" w="-1" h="-1" measuredW="57" measuredH="24" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>I%20lager</text>
+      </controlProperties>
+    </control>
+    <control controlID="420" controlTypeID="com.balsamiq.mockups::HRule" x="370" y="864" w="970" h="-1" measuredW="100" measuredH="10" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="424" controlTypeID="com.balsamiq.mockups::HRule" x="373" y="692" w="967" h="-1" measuredW="100" measuredH="10" zOrder="41" locked="false" isInGroup="-1"/>
+    <control controlID="425" controlTypeID="com.balsamiq.mockups::Label" x="372" y="671" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Produkt</text>
+      </controlProperties>
+    </control>
+    <control controlID="426" controlTypeID="com.balsamiq.mockups::Label" x="1131" y="671" w="-1" h="-1" measuredW="23" measuredH="21" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pris</text>
+      </controlProperties>
+    </control>
+    <control controlID="427" controlTypeID="com.balsamiq.mockups::Label" x="1128" y="708" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="428" controlTypeID="com.balsamiq.mockups::Label" x="1295" y="671" w="-1" h="-1" measuredW="45" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>J%E4mf%F6r</text>
+      </controlProperties>
+    </control>
+    <control controlID="429" controlTypeID="com.balsamiq.mockups::CheckBox" x="1311" y="704" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="430" controlTypeID="com.balsamiq.mockups::Image" x="372" y="894" w="132" h="134" measuredW="77" measuredH="79" zOrder="47" locked="false" isInGroup="-1"/>
+    <control controlID="431" controlTypeID="com.balsamiq.mockups::SubTitle" x="524" y="894" w="-1" h="-1" measuredW="418" measuredH="23" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>VINDA%201505F%20BNC/S-BNC/C%20GT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="432" controlTypeID="com.balsamiq.mockups::List" x="524" y="920" w="249" h="93" measuredW="100" measuredH="126" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="433" controlTypeID="com.balsamiq.mockups::Button" x="1203" y="914" w="61" h="27" measuredW="46" measuredH="27" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="434" controlTypeID="com.balsamiq.mockups::IconLabel" x="1205" y="885" w="-1" h="-1" measuredW="57" measuredH="24" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>I%20lager</text>
+      </controlProperties>
+    </control>
+    <control controlID="435" controlTypeID="com.balsamiq.mockups::HRule" x="370" y="1047" w="970" h="-1" measuredW="100" measuredH="10" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="436" controlTypeID="com.balsamiq.mockups::Label" x="1128" y="891" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="437" controlTypeID="com.balsamiq.mockups::CheckBox" x="1311" y="885" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="438" controlTypeID="com.balsamiq.mockups::Image" x="372" y="1081" w="132" h="134" measuredW="77" measuredH="79" zOrder="55" locked="false" isInGroup="-1"/>
+    <control controlID="439" controlTypeID="com.balsamiq.mockups::SubTitle" x="524" y="1081" w="-1" h="-1" measuredW="418" measuredH="23" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>VINDA%201505F%20BNC/S-BNC/C%20GT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="440" controlTypeID="com.balsamiq.mockups::List" x="524" y="1107" w="249" h="93" measuredW="100" measuredH="126" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="441" controlTypeID="com.balsamiq.mockups::Button" x="1203" y="1109" w="61" h="27" measuredW="46" measuredH="27" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="442" controlTypeID="com.balsamiq.mockups::IconLabel" x="1205" y="1072" w="-1" h="-1" measuredW="57" measuredH="24" zOrder="59" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>I%20lager</text>
+      </controlProperties>
+    </control>
+    <control controlID="443" controlTypeID="com.balsamiq.mockups::HRule" x="370" y="1234" w="970" h="-1" measuredW="100" measuredH="10" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="444" controlTypeID="com.balsamiq.mockups::Label" x="1128" y="1078" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="61" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="445" controlTypeID="com.balsamiq.mockups::CheckBox" x="1311" y="1072" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="62" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="446" controlTypeID="com.balsamiq.mockups::Image" x="372" y="1262" w="132" h="134" measuredW="77" measuredH="79" zOrder="63" locked="false" isInGroup="-1"/>
+    <control controlID="447" controlTypeID="com.balsamiq.mockups::SubTitle" x="524" y="1262" w="-1" h="-1" measuredW="418" measuredH="23" zOrder="64" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>VINDA%201505F%20BNC/S-BNC/C%20GT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="448" controlTypeID="com.balsamiq.mockups::List" x="524" y="1288" w="249" h="93" measuredW="100" measuredH="126" zOrder="65" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="449" controlTypeID="com.balsamiq.mockups::Button" x="1203" y="1282" w="61" h="27" measuredW="46" measuredH="27" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="450" controlTypeID="com.balsamiq.mockups::IconLabel" x="1205" y="1253" w="-1" h="-1" measuredW="57" measuredH="24" zOrder="67" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>I%20lager</text>
+      </controlProperties>
+    </control>
+    <control controlID="451" controlTypeID="com.balsamiq.mockups::HRule" x="370" y="1415" w="970" h="-1" measuredW="100" measuredH="10" zOrder="68" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="452" controlTypeID="com.balsamiq.mockups::Label" x="1128" y="1259" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="69" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="453" controlTypeID="com.balsamiq.mockups::CheckBox" x="1311" y="1253" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="70" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="454" controlTypeID="com.balsamiq.mockups::Image" x="372" y="1451" w="132" h="134" measuredW="77" measuredH="79" zOrder="71" locked="false" isInGroup="-1"/>
+    <control controlID="455" controlTypeID="com.balsamiq.mockups::SubTitle" x="524" y="1451" w="-1" h="-1" measuredW="418" measuredH="23" zOrder="72" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>VINDA%201505F%20BNC/S-BNC/C%20GT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="456" controlTypeID="com.balsamiq.mockups::List" x="524" y="1477" w="249" h="93" measuredW="100" measuredH="126" zOrder="73" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="457" controlTypeID="com.balsamiq.mockups::Button" x="1203" y="1465" w="61" h="27" measuredW="46" measuredH="27" zOrder="74" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="458" controlTypeID="com.balsamiq.mockups::IconLabel" x="1205" y="1436" w="-1" h="-1" measuredW="57" measuredH="24" zOrder="75" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>I%20lager</text>
+      </controlProperties>
+    </control>
+    <control controlID="459" controlTypeID="com.balsamiq.mockups::HRule" x="370" y="1604" w="970" h="-1" measuredW="100" measuredH="10" zOrder="76" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="460" controlTypeID="com.balsamiq.mockups::Label" x="1128" y="1442" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="77" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="461" controlTypeID="com.balsamiq.mockups::CheckBox" x="1311" y="1436" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="78" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="464" controlTypeID="com.balsamiq.mockups::IconLabel" x="739" y="1654" w="-1" h="-1" measuredW="181" measuredH="79" zOrder="79" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SpinningIcon%7Cxlarge</icon>
+        <text>L%E4ser%20in%20ytterligare%20produkter...</text>
+      </controlProperties>
+    </control>
+    <control controlID="465" controlTypeID="com.balsamiq.mockups::Button" x="1115" y="626" w="100" h="27" measuredW="94" measuredH="27" zOrder="80" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CopyIcon%7Csmall</icon>
+        <state>up</state>
+        <text>J%E4mf%F6r</text>
+      </controlProperties>
+    </control>
+    <control controlID="466" controlTypeID="com.balsamiq.mockups::Canvas" x="1512" y="465" w="946" h="35" measuredW="100" measuredH="70" zOrder="81" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+      </controlProperties>
+    </control>
+    <control controlID="467" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="1519" y="470" w="-1" h="-1" measuredW="188" measuredH="24" zOrder="82" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hem%2C%20Sortiment%2C%20Kabelvindor</text>
+      </controlProperties>
+    </control>
+    <control controlID="468" controlTypeID="com.balsamiq.mockups::Component" x="1514" y="511" w="205" h="498" measuredW="205" measuredH="498" zOrder="83" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0:0">
+          <selectedIndex>3</selectedIndex>
+        </override>
+        <src>./assets/symbols.bmml%23Produktmeny</src>
+      </controlProperties>
+    </control>
+    <control controlID="469" controlTypeID="com.balsamiq.mockups::Canvas" x="1746" y="621" w="712" h="37" measuredW="100" measuredH="70" zOrder="84" locked="false" isInGroup="-1"/>
+    <control controlID="470" controlTypeID="com.balsamiq.mockups::Label" x="1755" y="629" w="-1" h="-1" measuredW="66" measuredH="21" zOrder="85" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Visningsvy</text>
+      </controlProperties>
+    </control>
+    <control controlID="471" controlTypeID="com.balsamiq.mockups::Icon" x="1872" y="627" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="86" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HLinesIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="472" controlTypeID="com.balsamiq.mockups::Icon" x="1839" y="627" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="87" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ThumbnailsIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="473" controlTypeID="com.balsamiq.mockups::ComboBox" x="2342" y="627" w="-1" h="-1" measuredW="108" measuredH="24" zOrder="88" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Sortera%20efter%0AA-%D6%0APris%0APlacering</text>
+      </controlProperties>
+    </control>
+    <control controlID="474" controlTypeID="com.balsamiq.mockups::Canvas" x="1745" y="513" w="713" h="100" measuredW="100" measuredH="70" zOrder="89" locked="false" isInGroup="-1"/>
+    <control controlID="475" controlTypeID="com.balsamiq.mockups::Label" x="1755" y="519" w="-1" h="-1" measuredW="28" measuredH="21" zOrder="90" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>F%E4rg</text>
+      </controlProperties>
+    </control>
+    <control controlID="476" controlTypeID="com.balsamiq.mockups::CheckBox" x="1755" y="540" w="-1" h="-1" measuredW="44" measuredH="22" zOrder="91" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>R%F6d</text>
+      </controlProperties>
+    </control>
+    <control controlID="477" controlTypeID="com.balsamiq.mockups::CheckBox" x="1755" y="562" w="-1" h="-1" measuredW="39" measuredH="22" zOrder="92" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bl%E5</text>
+      </controlProperties>
+    </control>
+    <control controlID="478" controlTypeID="com.balsamiq.mockups::CheckBox" x="1755" y="584" w="-1" h="-1" measuredW="52" measuredH="22" zOrder="93" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Svart</text>
+      </controlProperties>
+    </control>
+    <control controlID="479" controlTypeID="com.balsamiq.mockups::Label" x="1831" y="519" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="94" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>L%E4ngd</text>
+      </controlProperties>
+    </control>
+    <control controlID="480" controlTypeID="com.balsamiq.mockups::CheckBox" x="1831" y="540" w="-1" h="-1" measuredW="47" measuredH="22" zOrder="95" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>20m</text>
+      </controlProperties>
+    </control>
+    <control controlID="481" controlTypeID="com.balsamiq.mockups::CheckBox" x="1831" y="562" w="-1" h="-1" measuredW="47" measuredH="22" zOrder="96" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>30m</text>
+      </controlProperties>
+    </control>
+    <control controlID="482" controlTypeID="com.balsamiq.mockups::CheckBox" x="1831" y="584" w="-1" h="-1" measuredW="46" measuredH="22" zOrder="97" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>50m</text>
+      </controlProperties>
+    </control>
+    <control controlID="483" controlTypeID="com.balsamiq.mockups::Image" x="1744" y="711" w="141" h="146" measuredW="77" measuredH="79" zOrder="98" locked="false" isInGroup="-1"/>
+    <control controlID="485" controlTypeID="com.balsamiq.mockups::List" x="1916" y="761" w="231" h="93" measuredW="100" measuredH="126" zOrder="99" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="486" controlTypeID="com.balsamiq.mockups::Button" x="2325" y="731" w="61" h="27" measuredW="46" measuredH="27" zOrder="100" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="487" controlTypeID="com.balsamiq.mockups::IconLabel" x="2327" y="702" w="-1" h="-1" measuredW="57" measuredH="24" zOrder="101" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>I%20lager</text>
+      </controlProperties>
+    </control>
+    <control controlID="488" controlTypeID="com.balsamiq.mockups::HRule" x="1742" y="864" w="716" h="-1" measuredW="100" measuredH="10" zOrder="102" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="489" controlTypeID="com.balsamiq.mockups::HRule" x="1745" y="692" w="713" h="-1" measuredW="100" measuredH="10" zOrder="103" locked="false" isInGroup="-1"/>
+    <control controlID="490" controlTypeID="com.balsamiq.mockups::Label" x="1744" y="671" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="104" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Produkt</text>
+      </controlProperties>
+    </control>
+    <control controlID="491" controlTypeID="com.balsamiq.mockups::Label" x="2245" y="671" w="-1" h="-1" measuredW="23" measuredH="21" zOrder="105" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pris</text>
+      </controlProperties>
+    </control>
+    <control controlID="492" controlTypeID="com.balsamiq.mockups::Label" x="2244" y="708" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="106" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="493" controlTypeID="com.balsamiq.mockups::Label" x="2417" y="671" w="-1" h="-1" measuredW="45" measuredH="21" zOrder="107" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>J%E4mf%F6r</text>
+      </controlProperties>
+    </control>
+    <control controlID="494" controlTypeID="com.balsamiq.mockups::CheckBox" x="2433" y="704" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="108" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="527" controlTypeID="com.balsamiq.mockups::IconLabel" x="2054" y="1585" w="-1" h="-1" measuredW="181" measuredH="79" zOrder="109" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SpinningIcon%7Cxlarge</icon>
+        <text>L%E4ser%20in%20ytterligare%20produkter...</text>
+      </controlProperties>
+    </control>
+    <control controlID="528" controlTypeID="com.balsamiq.mockups::Button" x="2235" y="626" w="100" h="27" measuredW="94" measuredH="27" zOrder="110" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CopyIcon%7Csmall</icon>
+        <state>up</state>
+        <text>J%E4mf%F6r</text>
+      </controlProperties>
+    </control>
+    <control controlID="529" controlTypeID="com.balsamiq.mockups::Paragraph" x="1919" y="718" w="241" h="80" measuredW="200" measuredH="80" zOrder="111" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="530" controlTypeID="com.balsamiq.mockups::Image" x="1744" y="711" w="141" h="146" measuredW="77" measuredH="79" zOrder="112" locked="false" isInGroup="-1"/>
+    <control controlID="531" controlTypeID="com.balsamiq.mockups::List" x="1916" y="761" w="231" h="93" measuredW="100" measuredH="126" zOrder="113" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="532" controlTypeID="com.balsamiq.mockups::Button" x="2325" y="731" w="61" h="27" measuredW="46" measuredH="27" zOrder="114" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="533" controlTypeID="com.balsamiq.mockups::IconLabel" x="2327" y="702" w="-1" h="-1" measuredW="57" measuredH="24" zOrder="115" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>I%20lager</text>
+      </controlProperties>
+    </control>
+    <control controlID="534" controlTypeID="com.balsamiq.mockups::HRule" x="1742" y="864" w="716" h="-1" measuredW="100" measuredH="10" zOrder="116" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="535" controlTypeID="com.balsamiq.mockups::HRule" x="1745" y="692" w="713" h="-1" measuredW="100" measuredH="10" zOrder="117" locked="false" isInGroup="-1"/>
+    <control controlID="536" controlTypeID="com.balsamiq.mockups::Label" x="2244" y="708" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="118" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="537" controlTypeID="com.balsamiq.mockups::CheckBox" x="2433" y="704" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="119" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="538" controlTypeID="com.balsamiq.mockups::Paragraph" x="1919" y="718" w="241" h="80" measuredW="200" measuredH="80" zOrder="120" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="539" controlTypeID="com.balsamiq.mockups::Image" x="1744" y="883" w="141" h="146" measuredW="77" measuredH="79" zOrder="121" locked="false" isInGroup="-1"/>
+    <control controlID="540" controlTypeID="com.balsamiq.mockups::List" x="1916" y="933" w="231" h="93" measuredW="100" measuredH="126" zOrder="122" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="541" controlTypeID="com.balsamiq.mockups::Button" x="2325" y="903" w="61" h="27" measuredW="46" measuredH="27" zOrder="123" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="542" controlTypeID="com.balsamiq.mockups::HRule" x="1742" y="1036" w="716" h="-1" measuredW="100" measuredH="10" zOrder="124" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="543" controlTypeID="com.balsamiq.mockups::Label" x="2244" y="880" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="125" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="544" controlTypeID="com.balsamiq.mockups::CheckBox" x="2433" y="876" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="126" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="545" controlTypeID="com.balsamiq.mockups::Paragraph" x="1919" y="890" w="241" h="80" measuredW="200" measuredH="80" zOrder="127" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="546" controlTypeID="com.balsamiq.mockups::Image" x="1744" y="883" w="141" h="146" measuredW="77" measuredH="79" zOrder="128" locked="false" isInGroup="-1"/>
+    <control controlID="547" controlTypeID="com.balsamiq.mockups::List" x="1916" y="933" w="231" h="93" measuredW="100" measuredH="126" zOrder="129" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="548" controlTypeID="com.balsamiq.mockups::Button" x="2325" y="903" w="61" h="27" measuredW="46" measuredH="27" zOrder="130" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="549" controlTypeID="com.balsamiq.mockups::HRule" x="1742" y="1036" w="716" h="-1" measuredW="100" measuredH="10" zOrder="131" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="550" controlTypeID="com.balsamiq.mockups::Label" x="2244" y="880" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="132" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="551" controlTypeID="com.balsamiq.mockups::CheckBox" x="2433" y="876" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="133" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="552" controlTypeID="com.balsamiq.mockups::Paragraph" x="1919" y="890" w="241" h="80" measuredW="200" measuredH="80" zOrder="134" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="553" controlTypeID="com.balsamiq.mockups::Image" x="1744" y="1053" w="141" h="146" measuredW="77" measuredH="79" zOrder="135" locked="false" isInGroup="-1"/>
+    <control controlID="554" controlTypeID="com.balsamiq.mockups::List" x="1916" y="1103" w="231" h="93" measuredW="100" measuredH="126" zOrder="136" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="555" controlTypeID="com.balsamiq.mockups::Button" x="2325" y="1073" w="61" h="27" measuredW="46" measuredH="27" zOrder="137" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="556" controlTypeID="com.balsamiq.mockups::HRule" x="1742" y="1206" w="716" h="-1" measuredW="100" measuredH="10" zOrder="138" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="557" controlTypeID="com.balsamiq.mockups::Label" x="2244" y="1050" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="139" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="558" controlTypeID="com.balsamiq.mockups::CheckBox" x="2433" y="1046" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="140" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="559" controlTypeID="com.balsamiq.mockups::Paragraph" x="1919" y="1060" w="241" h="80" measuredW="200" measuredH="80" zOrder="141" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="560" controlTypeID="com.balsamiq.mockups::Image" x="1744" y="1053" w="141" h="146" measuredW="77" measuredH="79" zOrder="142" locked="false" isInGroup="-1"/>
+    <control controlID="561" controlTypeID="com.balsamiq.mockups::List" x="1916" y="1103" w="231" h="93" measuredW="100" measuredH="126" zOrder="143" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="562" controlTypeID="com.balsamiq.mockups::Button" x="2325" y="1073" w="61" h="27" measuredW="46" measuredH="27" zOrder="144" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="563" controlTypeID="com.balsamiq.mockups::HRule" x="1742" y="1206" w="716" h="-1" measuredW="100" measuredH="10" zOrder="145" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="564" controlTypeID="com.balsamiq.mockups::Label" x="2244" y="1050" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="146" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="565" controlTypeID="com.balsamiq.mockups::CheckBox" x="2433" y="1046" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="147" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="566" controlTypeID="com.balsamiq.mockups::Paragraph" x="1919" y="1060" w="241" h="80" measuredW="200" measuredH="80" zOrder="148" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="567" controlTypeID="com.balsamiq.mockups::Image" x="1744" y="1225" w="141" h="146" measuredW="77" measuredH="79" zOrder="149" locked="false" isInGroup="-1"/>
+    <control controlID="568" controlTypeID="com.balsamiq.mockups::List" x="1916" y="1275" w="231" h="93" measuredW="100" measuredH="126" zOrder="150" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="569" controlTypeID="com.balsamiq.mockups::Button" x="2325" y="1245" w="61" h="27" measuredW="46" measuredH="27" zOrder="151" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="570" controlTypeID="com.balsamiq.mockups::HRule" x="1742" y="1378" w="716" h="-1" measuredW="100" measuredH="10" zOrder="152" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="571" controlTypeID="com.balsamiq.mockups::Label" x="2244" y="1222" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="153" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="572" controlTypeID="com.balsamiq.mockups::CheckBox" x="2433" y="1218" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="154" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="573" controlTypeID="com.balsamiq.mockups::Paragraph" x="1919" y="1232" w="241" h="80" measuredW="200" measuredH="80" zOrder="155" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="574" controlTypeID="com.balsamiq.mockups::Image" x="1744" y="1225" w="141" h="146" measuredW="77" measuredH="79" zOrder="156" locked="false" isInGroup="-1"/>
+    <control controlID="575" controlTypeID="com.balsamiq.mockups::List" x="1916" y="1275" w="231" h="93" measuredW="100" measuredH="126" zOrder="157" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="576" controlTypeID="com.balsamiq.mockups::Button" x="2325" y="1245" w="61" h="27" measuredW="46" measuredH="27" zOrder="158" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="577" controlTypeID="com.balsamiq.mockups::HRule" x="1742" y="1378" w="716" h="-1" measuredW="100" measuredH="10" zOrder="159" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="578" controlTypeID="com.balsamiq.mockups::Label" x="2244" y="1222" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="160" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="579" controlTypeID="com.balsamiq.mockups::CheckBox" x="2433" y="1218" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="161" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="580" controlTypeID="com.balsamiq.mockups::Paragraph" x="1919" y="1232" w="241" h="80" measuredW="200" measuredH="80" zOrder="162" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="581" controlTypeID="com.balsamiq.mockups::Image" x="1744" y="1400" w="141" h="146" measuredW="77" measuredH="79" zOrder="163" locked="false" isInGroup="-1"/>
+    <control controlID="582" controlTypeID="com.balsamiq.mockups::List" x="1916" y="1450" w="231" h="93" measuredW="100" measuredH="126" zOrder="164" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="583" controlTypeID="com.balsamiq.mockups::Button" x="2325" y="1420" w="61" h="27" measuredW="46" measuredH="27" zOrder="165" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="584" controlTypeID="com.balsamiq.mockups::HRule" x="1742" y="1553" w="716" h="-1" measuredW="100" measuredH="10" zOrder="166" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="585" controlTypeID="com.balsamiq.mockups::Label" x="2244" y="1397" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="167" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="586" controlTypeID="com.balsamiq.mockups::CheckBox" x="2433" y="1393" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="168" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="587" controlTypeID="com.balsamiq.mockups::Paragraph" x="1919" y="1407" w="241" h="80" measuredW="200" measuredH="80" zOrder="169" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="588" controlTypeID="com.balsamiq.mockups::Image" x="1744" y="1400" w="141" h="146" measuredW="77" measuredH="79" zOrder="170" locked="false" isInGroup="-1"/>
+    <control controlID="589" controlTypeID="com.balsamiq.mockups::List" x="1916" y="1450" w="231" h="93" measuredW="100" measuredH="126" zOrder="171" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="590" controlTypeID="com.balsamiq.mockups::Button" x="2325" y="1420" w="61" h="27" measuredW="46" measuredH="27" zOrder="172" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>K%F6p</text>
+      </controlProperties>
+    </control>
+    <control controlID="591" controlTypeID="com.balsamiq.mockups::HRule" x="1742" y="1553" w="716" h="-1" measuredW="100" measuredH="10" zOrder="173" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="592" controlTypeID="com.balsamiq.mockups::Label" x="2244" y="1397" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="174" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="593" controlTypeID="com.balsamiq.mockups::CheckBox" x="2433" y="1393" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="175" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="594" controlTypeID="com.balsamiq.mockups::Paragraph" x="1919" y="1407" w="241" h="80" measuredW="200" measuredH="80" zOrder="176" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="595" controlTypeID="com.balsamiq.mockups::Image" x="2540" y="520" w="110" h="114" measuredW="77" measuredH="79" zOrder="177" locked="false" isInGroup="-1"/>
+    <control controlID="596" controlTypeID="com.balsamiq.mockups::List" x="2666" y="550" w="231" h="93" measuredW="100" measuredH="126" zOrder="178" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="599" controlTypeID="com.balsamiq.mockups::HRule" x="2541" y="501" w="713" h="-1" measuredW="100" measuredH="10" zOrder="179" locked="false" isInGroup="-1"/>
+    <control controlID="605" controlTypeID="com.balsamiq.mockups::Paragraph" x="2669" y="527" w="356" h="21" measuredW="200" measuredH="80" zOrder="180" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="609" controlTypeID="com.balsamiq.mockups::IconLabel" x="3176" y="627" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="181" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="610" controlTypeID="com.balsamiq.mockups::HRule" x="2517" y="501" w="758" h="-1" measuredW="100" measuredH="10" zOrder="182" locked="false" isInGroup="-1"/>
+    <control controlID="611" controlTypeID="com.balsamiq.mockups::Label" x="3225" y="629" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="183" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="614" controlTypeID="com.balsamiq.mockups::Icon" x="3230" y="570" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="184" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="615" controlTypeID="com.balsamiq.mockups::HRule" x="2541" y="658" w="734" h="-1" measuredW="100" measuredH="10" zOrder="185" locked="false" isInGroup="-1"/>
+    <control controlID="616" controlTypeID="com.balsamiq.mockups::Image" x="3352" y="496" w="67" h="69" measuredW="77" measuredH="79" zOrder="186" locked="false" isInGroup="-1"/>
+    <control controlID="618" controlTypeID="com.balsamiq.mockups::HRule" x="3355" y="478" w="295" h="-1" measuredW="100" measuredH="10" zOrder="187" locked="false" isInGroup="-1"/>
+    <control controlID="619" controlTypeID="com.balsamiq.mockups::Paragraph" x="3434" y="500" w="200" h="36" measuredW="200" measuredH="80" zOrder="188" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="620" controlTypeID="com.balsamiq.mockups::IconLabel" x="3434" y="537" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="189" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="621" controlTypeID="com.balsamiq.mockups::Label" x="3471" y="537" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="190" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="622" controlTypeID="com.balsamiq.mockups::Icon" x="3625" y="525" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="191" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="623" controlTypeID="com.balsamiq.mockups::HRule" x="3355" y="579" w="295" h="-1" measuredW="100" measuredH="10" zOrder="192" locked="false" isInGroup="-1"/>
+    <control controlID="624" controlTypeID="com.balsamiq.mockups::Image" x="3352" y="604" w="67" h="69" measuredW="77" measuredH="79" zOrder="193" locked="false" isInGroup="-1"/>
+    <control controlID="625" controlTypeID="com.balsamiq.mockups::Paragraph" x="3434" y="608" w="200" h="36" measuredW="200" measuredH="80" zOrder="194" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="626" controlTypeID="com.balsamiq.mockups::IconLabel" x="3434" y="645" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="195" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="627" controlTypeID="com.balsamiq.mockups::Label" x="3471" y="645" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="196" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="628" controlTypeID="com.balsamiq.mockups::Icon" x="3625" y="633" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="197" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="629" controlTypeID="com.balsamiq.mockups::HRule" x="3355" y="687" w="295" h="-1" measuredW="100" measuredH="10" zOrder="198" locked="false" isInGroup="-1"/>
+    <control controlID="630" controlTypeID="com.balsamiq.mockups::Image" x="3352" y="704" w="67" h="69" measuredW="77" measuredH="79" zOrder="199" locked="false" isInGroup="-1"/>
+    <control controlID="631" controlTypeID="com.balsamiq.mockups::Paragraph" x="3434" y="708" w="200" h="36" measuredW="200" measuredH="80" zOrder="200" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="632" controlTypeID="com.balsamiq.mockups::IconLabel" x="3434" y="745" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="201" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="633" controlTypeID="com.balsamiq.mockups::Label" x="3471" y="745" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="202" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="634" controlTypeID="com.balsamiq.mockups::Icon" x="3625" y="733" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="203" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="635" controlTypeID="com.balsamiq.mockups::HRule" x="3355" y="787" w="295" h="-1" measuredW="100" measuredH="10" zOrder="204" locked="false" isInGroup="-1"/>
+    <control controlID="636" controlTypeID="com.balsamiq.mockups::Image" x="3352" y="810" w="67" h="69" measuredW="77" measuredH="79" zOrder="205" locked="false" isInGroup="-1"/>
+    <control controlID="637" controlTypeID="com.balsamiq.mockups::Paragraph" x="3434" y="814" w="200" h="36" measuredW="200" measuredH="80" zOrder="206" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="638" controlTypeID="com.balsamiq.mockups::IconLabel" x="3434" y="851" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="207" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="639" controlTypeID="com.balsamiq.mockups::Label" x="3471" y="851" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="208" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="640" controlTypeID="com.balsamiq.mockups::Icon" x="3625" y="839" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="209" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="641" controlTypeID="com.balsamiq.mockups::HRule" x="3355" y="893" w="295" h="-1" measuredW="100" measuredH="10" zOrder="210" locked="false" isInGroup="-1"/>
+    <control controlID="642" controlTypeID="com.balsamiq.mockups::Image" x="3352" y="911" w="67" h="69" measuredW="77" measuredH="79" zOrder="211" locked="false" isInGroup="-1"/>
+    <control controlID="643" controlTypeID="com.balsamiq.mockups::Paragraph" x="3434" y="915" w="200" h="36" measuredW="200" measuredH="80" zOrder="212" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="644" controlTypeID="com.balsamiq.mockups::IconLabel" x="3434" y="952" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="213" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="645" controlTypeID="com.balsamiq.mockups::Label" x="3471" y="952" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="214" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="646" controlTypeID="com.balsamiq.mockups::Icon" x="3625" y="940" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="215" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="647" controlTypeID="com.balsamiq.mockups::HRule" x="3355" y="994" w="295" h="-1" measuredW="100" measuredH="10" zOrder="216" locked="false" isInGroup="-1"/>
+    <control controlID="648" controlTypeID="com.balsamiq.mockups::Image" x="3352" y="1015" w="67" h="69" measuredW="77" measuredH="79" zOrder="217" locked="false" isInGroup="-1"/>
+    <control controlID="649" controlTypeID="com.balsamiq.mockups::Paragraph" x="3434" y="1019" w="200" h="36" measuredW="200" measuredH="80" zOrder="218" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="650" controlTypeID="com.balsamiq.mockups::IconLabel" x="3434" y="1056" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="219" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="651" controlTypeID="com.balsamiq.mockups::Label" x="3471" y="1056" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="220" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="652" controlTypeID="com.balsamiq.mockups::Icon" x="3625" y="1044" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="221" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="653" controlTypeID="com.balsamiq.mockups::HRule" x="3355" y="1098" w="295" h="-1" measuredW="100" measuredH="10" zOrder="222" locked="false" isInGroup="-1"/>
+    <control controlID="654" controlTypeID="com.balsamiq.mockups::Image" x="3352" y="1122" w="67" h="69" measuredW="77" measuredH="79" zOrder="223" locked="false" isInGroup="-1"/>
+    <control controlID="655" controlTypeID="com.balsamiq.mockups::Paragraph" x="3434" y="1126" w="200" h="36" measuredW="200" measuredH="80" zOrder="224" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="656" controlTypeID="com.balsamiq.mockups::IconLabel" x="3434" y="1163" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="225" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="657" controlTypeID="com.balsamiq.mockups::Label" x="3471" y="1163" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="226" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="658" controlTypeID="com.balsamiq.mockups::Icon" x="3625" y="1151" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="227" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="659" controlTypeID="com.balsamiq.mockups::HRule" x="3355" y="1205" w="295" h="-1" measuredW="100" measuredH="10" zOrder="228" locked="false" isInGroup="-1"/>
+    <control controlID="660" controlTypeID="com.balsamiq.mockups::Image" x="2540" y="520" w="110" h="114" measuredW="77" measuredH="79" zOrder="229" locked="false" isInGroup="-1"/>
+    <control controlID="661" controlTypeID="com.balsamiq.mockups::List" x="2666" y="550" w="231" h="93" measuredW="100" measuredH="126" zOrder="230" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="662" controlTypeID="com.balsamiq.mockups::Paragraph" x="2669" y="527" w="356" h="21" measuredW="200" measuredH="80" zOrder="231" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="663" controlTypeID="com.balsamiq.mockups::IconLabel" x="3176" y="627" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="232" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="664" controlTypeID="com.balsamiq.mockups::Label" x="3225" y="629" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="233" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="665" controlTypeID="com.balsamiq.mockups::Icon" x="3230" y="570" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="234" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="666" controlTypeID="com.balsamiq.mockups::HRule" x="2541" y="658" w="734" h="-1" measuredW="100" measuredH="10" zOrder="235" locked="false" isInGroup="-1"/>
+    <control controlID="667" controlTypeID="com.balsamiq.mockups::Image" x="2540" y="684" w="110" h="114" measuredW="77" measuredH="79" zOrder="236" locked="false" isInGroup="-1"/>
+    <control controlID="668" controlTypeID="com.balsamiq.mockups::List" x="2666" y="714" w="231" h="93" measuredW="100" measuredH="126" zOrder="237" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="669" controlTypeID="com.balsamiq.mockups::Paragraph" x="2669" y="691" w="356" h="21" measuredW="200" measuredH="80" zOrder="238" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="670" controlTypeID="com.balsamiq.mockups::IconLabel" x="3176" y="791" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="239" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="671" controlTypeID="com.balsamiq.mockups::Label" x="3225" y="793" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="240" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="672" controlTypeID="com.balsamiq.mockups::Icon" x="3230" y="734" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="241" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="673" controlTypeID="com.balsamiq.mockups::HRule" x="2541" y="822" w="734" h="-1" measuredW="100" measuredH="10" zOrder="242" locked="false" isInGroup="-1"/>
+    <control controlID="674" controlTypeID="com.balsamiq.mockups::Image" x="2540" y="848" w="110" h="114" measuredW="77" measuredH="79" zOrder="243" locked="false" isInGroup="-1"/>
+    <control controlID="675" controlTypeID="com.balsamiq.mockups::List" x="2666" y="878" w="231" h="93" measuredW="100" measuredH="126" zOrder="244" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="676" controlTypeID="com.balsamiq.mockups::Paragraph" x="2669" y="855" w="356" h="21" measuredW="200" measuredH="80" zOrder="245" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="677" controlTypeID="com.balsamiq.mockups::IconLabel" x="3176" y="955" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="246" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="678" controlTypeID="com.balsamiq.mockups::Label" x="3225" y="957" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="247" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="679" controlTypeID="com.balsamiq.mockups::Icon" x="3230" y="898" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="248" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="680" controlTypeID="com.balsamiq.mockups::HRule" x="2541" y="986" w="734" h="-1" measuredW="100" measuredH="10" zOrder="249" locked="false" isInGroup="-1"/>
+    <control controlID="681" controlTypeID="com.balsamiq.mockups::Image" x="2540" y="1012" w="110" h="114" measuredW="77" measuredH="79" zOrder="250" locked="false" isInGroup="-1"/>
+    <control controlID="682" controlTypeID="com.balsamiq.mockups::List" x="2666" y="1042" w="231" h="93" measuredW="100" measuredH="126" zOrder="251" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="683" controlTypeID="com.balsamiq.mockups::Paragraph" x="2669" y="1019" w="356" h="21" measuredW="200" measuredH="80" zOrder="252" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="684" controlTypeID="com.balsamiq.mockups::IconLabel" x="3176" y="1119" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="253" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="685" controlTypeID="com.balsamiq.mockups::Label" x="3225" y="1121" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="254" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="686" controlTypeID="com.balsamiq.mockups::Icon" x="3230" y="1062" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="255" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="687" controlTypeID="com.balsamiq.mockups::HRule" x="2541" y="1150" w="734" h="-1" measuredW="100" measuredH="10" zOrder="256" locked="false" isInGroup="-1"/>
+    <control controlID="688" controlTypeID="com.balsamiq.mockups::Image" x="2540" y="1171" w="110" h="114" measuredW="77" measuredH="79" zOrder="257" locked="false" isInGroup="-1"/>
+    <control controlID="689" controlTypeID="com.balsamiq.mockups::List" x="2666" y="1201" w="231" h="93" measuredW="100" measuredH="126" zOrder="258" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>16</rowHeight>
+        <size>14</size>
+        <text>Flexibel%20vidokabel%0AKlarar%20alla%20format%20upp%20til%203G-SDI%0ARobust%20konstruktion%20-%20helt%20i%20metall%0AStaplingsbar%0AMed%20hjul</text>
+      </controlProperties>
+    </control>
+    <control controlID="690" controlTypeID="com.balsamiq.mockups::Paragraph" x="2669" y="1178" w="356" h="21" measuredW="200" measuredH="80" zOrder="259" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>VINDA%201505F%20BNC/S-BNC/CGT235SO%2050M</text>
+      </controlProperties>
+    </control>
+    <control controlID="691" controlTypeID="com.balsamiq.mockups::IconLabel" x="3176" y="1278" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="260" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>10</size>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="692" controlTypeID="com.balsamiq.mockups::Label" x="3225" y="1280" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="261" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.995%20kr</text>
+      </controlProperties>
+    </control>
+    <control controlID="693" controlTypeID="com.balsamiq.mockups::Icon" x="3230" y="1221" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="262" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="694" controlTypeID="com.balsamiq.mockups::HRule" x="2541" y="1309" w="734" h="-1" measuredW="100" measuredH="10" zOrder="263" locked="false" isInGroup="-1"/>
+    <control controlID="696" controlTypeID="com.balsamiq.mockups::Canvas" x="2540" y="465" w="735" h="35" measuredW="100" measuredH="70" zOrder="264" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+      </controlProperties>
+    </control>
+    <control controlID="697" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="2547" y="470" w="-1" h="-1" measuredW="188" measuredH="24" zOrder="265" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hem%2C%20Sortiment%2C%20Kabelvindor</text>
+      </controlProperties>
+    </control>
+    <control controlID="699" controlTypeID="com.balsamiq.mockups::Canvas" x="3352" y="438" w="298" h="35" measuredW="100" measuredH="70" zOrder="266" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+      </controlProperties>
+    </control>
+    <control controlID="700" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="3362" y="443" w="-1" h="-1" measuredW="188" measuredH="24" zOrder="267" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hem%2C%20Sortiment%2C%20Kabelvindor</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

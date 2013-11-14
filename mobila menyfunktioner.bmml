@@ -1,0 +1,395 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="832" measuredH="1174" mockupW="751" mockupH="1107">
+  <controls>
+    <control controlID="183" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="81" y="67" w="327" h="1107" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cabletronic%0Ahttp%3A//cabletronic.se</text>
+      </controlProperties>
+    </control>
+    <control controlID="185" controlTypeID="com.balsamiq.mockups::Component" x="83" y="141" w="320" h="1006" measuredW="320" measuredH="1006" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="320" h="1006"/>
+        <override controlID="1" x="10" y="0" w="140" h="1006"/>
+        <override controlID="2" x="150" y="0" w="20" h="1006"/>
+        <override controlID="3" x="170" y="0" w="140" h="1006"/>
+        <src>./assets/gridsystem.bmml%23Phone</src>
+      </controlProperties>
+    </control>
+    <control controlID="240" controlTypeID="com.balsamiq.mockups::Image" x="81" y="251" w="327" h="159" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="247" controlTypeID="__group__" x="81" y="408" w="327" h="97" measuredW="327" measuredH="97" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="327" h="97" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="247"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="15" y="18" w="-1" h="-1" measuredW="116" measuredH="19" zOrder="1" locked="false" isInGroup="247">
+          <controlProperties>
+            <size>16</size>
+            <text>HDMI-converter</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="15" y="37" w="305" h="33" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="247">
+          <controlProperties>
+            <size>12</size>
+            <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor.</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="14" y="64" w="-1" h="-1" measuredW="46" measuredH="18" zOrder="3" locked="false" isInGroup="247">
+          <controlProperties>
+            <size>12</size>
+            <text>L%E4s%20mer</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="257" controlTypeID="__group__" x="338" y="414" w="64" h="16" measuredW="64" measuredH="16" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="257">
+          <controlProperties>
+            <icon>DotIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="16" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="257">
+          <controlProperties>
+            <icon>DotHollowIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="32" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="257">
+          <controlProperties>
+            <icon>DotHollowIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="48" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="257">
+          <controlProperties>
+            <icon>DotHollowIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="261" controlTypeID="com.balsamiq.mockups::Component" x="81" y="149" w="327" h="104" measuredW="327" measuredH="104" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Navbar%20phone</src>
+      </controlProperties>
+    </control>
+    <control controlID="262" controlTypeID="com.balsamiq.mockups::Image" x="93" y="513" w="81" h="83" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="263" controlTypeID="com.balsamiq.mockups::SubTitle" x="186" y="517" w="-1" h="-1" measuredW="182" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Gefen-veckor%20hos%20oss%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="264" controlTypeID="com.balsamiq.mockups::Paragraph" x="186" y="540" w="182" h="226" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.</text>
+      </controlProperties>
+    </control>
+    <control controlID="266" controlTypeID="com.balsamiq.mockups::Link" x="186" y="682" w="-1" h="-1" measuredW="126" measuredH="19" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Se%20alla%20kampanjvaror</text>
+      </controlProperties>
+    </control>
+    <control controlID="267" controlTypeID="com.balsamiq.mockups::SubTitle" x="93" y="713" w="-1" h="-1" measuredW="176" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Aktuella%20erbjudanden</text>
+      </controlProperties>
+    </control>
+    <control controlID="269" controlTypeID="com.balsamiq.mockups::SubTitle" x="167" y="756" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>HDMI-splitt</text>
+      </controlProperties>
+    </control>
+    <control controlID="270" controlTypeID="com.balsamiq.mockups::Icon" x="368" y="761" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="272" controlTypeID="com.balsamiq.mockups::HRule" x="94" y="810" w="298" h="-1" measuredW="100" measuredH="10" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="275" controlTypeID="com.balsamiq.mockups::HRule" x="93" y="734" w="299" h="-1" measuredW="100" measuredH="10" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="280" controlTypeID="com.balsamiq.mockups::HRule" x="94" y="810" w="298" h="-1" measuredW="100" measuredH="10" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="282" controlTypeID="com.balsamiq.mockups::SubTitle" x="167" y="834" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>HDMI-splitt</text>
+      </controlProperties>
+    </control>
+    <control controlID="283" controlTypeID="com.balsamiq.mockups::Icon" x="368" y="839" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="285" controlTypeID="com.balsamiq.mockups::HRule" x="94" y="888" w="298" h="-1" measuredW="100" measuredH="10" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="287" controlTypeID="com.balsamiq.mockups::SubTitle" x="167" y="912" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>HDMI-splitt</text>
+      </controlProperties>
+    </control>
+    <control controlID="288" controlTypeID="com.balsamiq.mockups::Icon" x="368" y="917" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="290" controlTypeID="com.balsamiq.mockups::HRule" x="94" y="966" w="298" h="-1" measuredW="100" measuredH="10" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="462" controlTypeID="__group__" x="162" y="247" w="231" h="214" measuredW="231" measuredH="214" zOrder="22" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="25" w="231" h="189" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="462"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="123" y="0" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="462">
+          <controlProperties>
+            <icon>UpFillTriangleIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="464" controlTypeID="com.balsamiq.mockups::TextInput" x="174" y="305" w="140" h="-1" measuredW="79" measuredH="26" zOrder="23" locked="false" isInGroup="-1"/>
+    <control controlID="466" controlTypeID="com.balsamiq.mockups::Label" x="174" y="282" w="-1" h="-1" measuredW="90" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Anv%E4ndarnamn</text>
+      </controlProperties>
+    </control>
+    <control controlID="467" controlTypeID="com.balsamiq.mockups::TextInput" x="174" y="359" w="140" h="-1" measuredW="79" measuredH="26" zOrder="25" locked="false" isInGroup="-1"/>
+    <control controlID="468" controlTypeID="com.balsamiq.mockups::Label" x="174" y="336" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>L%F6senord</text>
+      </controlProperties>
+    </control>
+    <control controlID="469" controlTypeID="com.balsamiq.mockups::Button" x="174" y="391" w="-1" h="-1" measuredW="72" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logga%20in</text>
+      </controlProperties>
+    </control>
+    <control controlID="471" controlTypeID="com.balsamiq.mockups::LinkBar" x="186" y="436" w="-1" h="-1" measuredW="181" measuredH="19" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gl%F6mt%20l%F6senord%2C%20Skapa%20konto</text>
+      </controlProperties>
+    </control>
+    <control controlID="472" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="505" y="67" w="327" h="1107" measuredW="450" measuredH="400" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cabletronic%0Ahttp%3A//cabletronic.se</text>
+      </controlProperties>
+    </control>
+    <control controlID="473" controlTypeID="com.balsamiq.mockups::Component" x="507" y="141" w="320" h="1006" measuredW="320" measuredH="1006" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="320" h="1006"/>
+        <override controlID="1" x="10" y="0" w="140" h="1006"/>
+        <override controlID="2" x="150" y="0" w="20" h="1006"/>
+        <override controlID="3" x="170" y="0" w="140" h="1006"/>
+        <src>./assets/gridsystem.bmml%23Phone</src>
+      </controlProperties>
+    </control>
+    <control controlID="475" controlTypeID="com.balsamiq.mockups::Image" x="505" y="297" w="327" h="159" measuredW="77" measuredH="79" zOrder="38" locked="false" isInGroup="-1"/>
+    <control controlID="476" controlTypeID="__group__" x="505" y="454" w="327" h="97" measuredW="327" measuredH="97" zOrder="39" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="327" h="97" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="476"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="15" y="18" w="-1" h="-1" measuredW="116" measuredH="19" zOrder="1" locked="false" isInGroup="476">
+          <controlProperties>
+            <size>16</size>
+            <text>HDMI-converter</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="15" y="37" w="305" h="33" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="476">
+          <controlProperties>
+            <size>12</size>
+            <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor.</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="14" y="64" w="-1" h="-1" measuredW="46" measuredH="18" zOrder="3" locked="false" isInGroup="476">
+          <controlProperties>
+            <size>12</size>
+            <text>L%E4s%20mer</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="477" controlTypeID="__group__" x="762" y="460" w="64" h="16" measuredW="64" measuredH="16" zOrder="40" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="477">
+          <controlProperties>
+            <icon>DotIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="16" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="477">
+          <controlProperties>
+            <icon>DotHollowIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="32" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="477">
+          <controlProperties>
+            <icon>DotHollowIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="48" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="477">
+          <controlProperties>
+            <icon>DotHollowIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="478" controlTypeID="com.balsamiq.mockups::Image" x="517" y="559" w="81" h="83" measuredW="77" measuredH="79" zOrder="41" locked="false" isInGroup="-1"/>
+    <control controlID="479" controlTypeID="com.balsamiq.mockups::SubTitle" x="610" y="563" w="-1" h="-1" measuredW="182" measuredH="21" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Gefen-veckor%20hos%20oss%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="480" controlTypeID="com.balsamiq.mockups::Paragraph" x="610" y="586" w="182" h="226" measuredW="200" measuredH="80" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.</text>
+      </controlProperties>
+    </control>
+    <control controlID="481" controlTypeID="com.balsamiq.mockups::Link" x="610" y="728" w="-1" h="-1" measuredW="126" measuredH="19" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Se%20alla%20kampanjvaror</text>
+      </controlProperties>
+    </control>
+    <control controlID="482" controlTypeID="com.balsamiq.mockups::SubTitle" x="517" y="759" w="-1" h="-1" measuredW="176" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Aktuella%20erbjudanden</text>
+      </controlProperties>
+    </control>
+    <control controlID="483" controlTypeID="com.balsamiq.mockups::SubTitle" x="591" y="802" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>HDMI-splitt</text>
+      </controlProperties>
+    </control>
+    <control controlID="484" controlTypeID="com.balsamiq.mockups::Icon" x="792" y="807" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="485" controlTypeID="com.balsamiq.mockups::HRule" x="518" y="856" w="298" h="-1" measuredW="100" measuredH="10" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="486" controlTypeID="com.balsamiq.mockups::HRule" x="517" y="780" w="299" h="-1" measuredW="100" measuredH="10" zOrder="49" locked="false" isInGroup="-1"/>
+    <control controlID="487" controlTypeID="com.balsamiq.mockups::HRule" x="518" y="856" w="298" h="-1" measuredW="100" measuredH="10" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="488" controlTypeID="com.balsamiq.mockups::SubTitle" x="591" y="880" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>HDMI-splitt</text>
+      </controlProperties>
+    </control>
+    <control controlID="489" controlTypeID="com.balsamiq.mockups::Icon" x="792" y="885" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="490" controlTypeID="com.balsamiq.mockups::HRule" x="518" y="934" w="298" h="-1" measuredW="100" measuredH="10" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="491" controlTypeID="com.balsamiq.mockups::SubTitle" x="591" y="958" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>HDMI-splitt</text>
+      </controlProperties>
+    </control>
+    <control controlID="492" controlTypeID="com.balsamiq.mockups::Icon" x="792" y="963" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="493" controlTypeID="com.balsamiq.mockups::HRule" x="518" y="1012" w="298" h="-1" measuredW="100" measuredH="10" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="502" controlTypeID="com.balsamiq.mockups::Canvas" x="505" y="254" w="327" h="45" measuredW="100" measuredH="70" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>12326171</color>
+      </controlProperties>
+    </control>
+    <control controlID="503" controlTypeID="__group__" x="528" y="149" w="280" h="49" measuredW="280" measuredH="49" zOrder="32" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="56" y="0" w="169" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="503"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="56" y="39" w="169" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="503"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="0" y="12" w="280" h="-1" measuredW="168" measuredH="27" zOrder="2" locked="false" isInGroup="503">
+          <controlProperties>
+            <color>12326171</color>
+            <size>24</size>
+            <text>CABLETRONIC</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="504" controlTypeID="com.balsamiq.mockups::Button" x="761" y="254" w="63" h="45" measuredW="53" measuredH="27" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>12326171</color>
+        <icon>CartIcon%7Csmall</icon>
+        <menuIcon>false</menuIcon>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="505" controlTypeID="com.balsamiq.mockups::Button" x="517" y="254" w="67" h="45" measuredW="46" measuredH="27" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>12326171</color>
+        <icon>ListIcon%7Csmall</icon>
+        <menuIcon>false</menuIcon>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="506" controlTypeID="com.balsamiq.mockups::Button" x="584" y="254" w="58" h="45" measuredW="53" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>12326171</color>
+        <icon>SearchIcon%7Csmall</icon>
+        <menuIcon>false</menuIcon>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="507" controlTypeID="com.balsamiq.mockups::Button" x="700" y="254" w="61" h="45" measuredW="53" measuredH="27" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>12326171</color>
+        <icon>ContactIcon%7Csmall</icon>
+        <menuIcon>false</menuIcon>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="508" controlTypeID="com.balsamiq.mockups::Button" x="642" y="254" w="58" h="45" measuredW="53" measuredH="27" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>12326171</color>
+        <icon>GeoLocation2Icon%7Csmall</icon>
+        <menuIcon>false</menuIcon>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="510" controlTypeID="com.balsamiq.mockups::Canvas" x="505" y="213" w="274" h="43" measuredW="100" measuredH="70" zOrder="58" locked="false" isInGroup="-1"/>
+    <control controlID="511" controlTypeID="com.balsamiq.mockups::Icon" x="517" y="222" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="59" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SearchIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="512" controlTypeID="com.balsamiq.mockups::Label" x="549" y="224" w="-1" h="-1" measuredW="183" measuredH="22" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <size>14</size>
+        <text>S%F6k%20produkter%20eller%20artikel.nr.</text>
+      </controlProperties>
+    </control>
+    <control controlID="513" controlTypeID="com.balsamiq.mockups::Button" x="775" y="213" w="57" h="44" measuredW="46" measuredH="27" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>S%F6k</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
