@@ -235,7 +235,7 @@
         <direction>bottom</direction>
       </controlProperties>
     </control>
-    <control controlID="166" controlTypeID="com.balsamiq.mockups::CallOut" x="1419" y="467" w="-1" h="-1" measuredW="45" measuredH="40" zOrder="47" locked="false" isInGroup="-1"/>
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::CallOut" x="1419" y="467" w="-1" h="-1" measuredW="36" measuredH="37" zOrder="47" locked="false" isInGroup="-1"/>
     <control controlID="167" controlTypeID="com.balsamiq.mockups::StickyNote" x="1235" y="42" w="201" h="123" measuredW="109" measuredH="123" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1.%29%20Eventuellt%20l%E5ter%20vi%20webbsidan%20fors%E4tta%20skala%20upp%20sig%20till%20ca%201400px%20ist%E4llet%20f%F6r%20att%20f%E4sta%20sajten%20centrerad%20vid%201230px%20som%20i%20denna%20skiss.</text>
@@ -272,30 +272,30 @@
         <override controlID="10" x="368" y="94" w="99" h="44"/>
         <override controlID="11" x="461" y="94" w="83" h="44"/>
         <override controlID="38" x="0" y="0" w="1003" h="140"/>
-        <override controlID="38:7" x="369" y="95" w="99" h="45"/>
         <override controlID="38:1:0" x="0" y="0" w="999" h="95"/>
-        <override controlID="38:1:3:1" x="0" y="59" w="280" h="10"/>
         <override controlID="38:2" x="748" y="95" w="112" h="45"/>
-        <override controlID="3:1" x="761" y="53" w="212" h="25"/>
-        <override controlID="38:1:2" x="759" y="17" w="209" h="21"/>
-        <override controlID="38:1:3:0" x="0" y="0" w="280" h="10"/>
-        <override controlID="3:3:2" x="0" y="15" w="280" h="43"/>
-        <override controlID="38:0" x="0" y="95" w="1003" h="45"/>
-        <override controlID="3:3" x="23" y="13" w="280" h="68"/>
-        <override controlID="38:4" x="26" y="95" w="99" h="45"/>
-        <override controlID="38:1:3:2" x="0" y="16" w="280" h="43"/>
-        <override controlID="3:3:0" x="0" y="0" w="280" h="10"/>
-        <override controlID="38:6" x="242" y="95" w="133" h="45"/>
-        <override controlID="3:2" x="761" y="17" w="209" h="21"/>
-        <override controlID="38:1:1" x="759" y="53" w="212" h="25"/>
-        <override controlID="38:1" x="4" y="0" w="999" h="95"/>
-        <override controlID="38:3" x="854" y="95" w="127" h="45"/>
-        <override controlID="38:5" x="119" y="95" w="129" h="45"/>
-        <override controlID="-1"/>
-        <override controlID="3:3:1" x="0" y="58" w="280" h="10"/>
         <override controlID="38:8" x="462" y="95" w="83" h="45"/>
-        <override controlID="38:1:3" x="23" y="14" w="280" h="69"/>
+        <override controlID="3:3:0" x="0" y="0" w="280" h="10"/>
+        <override controlID="38:0" x="0" y="95" w="1003" h="45"/>
         <override controlID="3:0" x="0" y="0" w="998" h="94"/>
+        <override controlID="3:2" x="761" y="17" w="209" h="21"/>
+        <override controlID="3:1" x="761" y="53" w="212" h="25"/>
+        <override controlID="3:3:1" x="0" y="58" w="280" h="10"/>
+        <override controlID="38:4" x="26" y="95" w="99" h="45"/>
+        <override controlID="38:1:2" x="759" y="17" w="209" h="21"/>
+        <override controlID="38:5" x="119" y="95" w="129" h="45"/>
+        <override controlID="3:3:2" x="0" y="15" w="280" h="43"/>
+        <override controlID="38:6" x="242" y="95" w="133" h="45"/>
+        <override controlID="38:1:3" x="23" y="14" w="280" h="69"/>
+        <override controlID="38:1:1" x="759" y="53" w="212" h="25"/>
+        <override controlID="38:1:3:0" x="0" y="0" w="280" h="10"/>
+        <override controlID="38:1:3:1" x="0" y="59" w="280" h="10"/>
+        <override controlID="-1"/>
+        <override controlID="38:1" x="4" y="0" w="999" h="95"/>
+        <override controlID="38:1:3:2" x="0" y="16" w="280" h="43"/>
+        <override controlID="38:7" x="369" y="95" w="99" h="45"/>
+        <override controlID="38:3" x="854" y="95" w="127" h="45"/>
+        <override controlID="3:3" x="23" y="13" w="280" h="68"/>
         <src>./assets/symbols.bmml%23Navbar%2520desktop</src>
       </controlProperties>
     </control>
@@ -309,10 +309,10 @@
         <override controlID="5" x="544" y="95" w="100" h="45"/>
         <override controlID="6" x="638" y="95" w="121" h="45"/>
         <override controlID="7" x="14" y="95" w="99" h="45"/>
+        <override controlID="4:0" x="0" y="0" w="280" h="-1"/>
         <override controlID="4:2" x="0" y="16" w="280" h="-1"/>
         <override controlID="-1"/>
         <override controlID="4:1" x="0" y="59" w="280" h="-1"/>
-        <override controlID="4:0" x="0" y="0" w="280" h="-1"/>
         <src>./assets/symbols.bmml%23Navbar%20tablet</src>
       </controlProperties>
     </control>
@@ -495,7 +495,7 @@
         <text>2%29%20P%E5%20touchenheter%20byter%20man%20bild%20genom%20att%20svepa%20fingret%20%F6ver%20sk%E4rmen</text>
       </controlProperties>
     </control>
-    <control controlID="293" controlTypeID="com.balsamiq.mockups::CallOut" x="3664" y="333" w="-1" h="-1" measuredW="41" measuredH="39" zOrder="86" locked="false" isInGroup="-1">
+    <control controlID="293" controlTypeID="com.balsamiq.mockups::CallOut" x="3664" y="333" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="86" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1.</text>
       </controlProperties>
@@ -694,7 +694,7 @@
         <text>Nyheter</text>
       </controlProperties>
     </control>
-    <control controlID="331" controlTypeID="com.balsamiq.mockups::CallOut" x="2470" y="797" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="117" locked="false" isInGroup="-1"/>
+    <control controlID="331" controlTypeID="com.balsamiq.mockups::CallOut" x="2470" y="797" w="-1" h="-1" measuredW="33" measuredH="39" zOrder="117" locked="false" isInGroup="-1"/>
     <control controlID="332" controlTypeID="com.balsamiq.mockups::VRule" x="2241" y="992" w="-1" h="302" measuredW="10" measuredH="100" zOrder="118" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
@@ -883,6 +883,16 @@
     <control controlID="394" controlTypeID="com.balsamiq.mockups::Component" x="139" y="807" w="205" h="498" measuredW="205" measuredH="498" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/symbols.bmml%23Produktmeny</src>
+      </controlProperties>
+    </control>
+    <control controlID="395" controlTypeID="com.balsamiq.mockups::SubTitle" x="1063" y="1031" w="-1" h="-1" measuredW="62" measuredH="27" zOrder="150" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bli%20%C5F</text>
+      </controlProperties>
+    </control>
+    <control controlID="396" controlTypeID="com.balsamiq.mockups::SubTitle" x="1063" y="1207" w="-1" h="-1" measuredW="139" measuredH="27" zOrder="151" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Annan%20rubrik</text>
       </controlProperties>
     </control>
   </controls>
