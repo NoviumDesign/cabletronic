@@ -43,7 +43,7 @@ body {
     height: 45px;
     margin: 0px;
     clear: none;
-    width: 20%;
+    width: 19.997298%;
     border: 0px solid rgba(255, 255, 255, 0.85098);
     padding: 0px;
 }
@@ -51,7 +51,7 @@ body {
 #box8 {
     float: left;
     height: 45px;
-    margin: 0px;
+    margin: 0px 0px 0px 0.625px;
     clear: none;
     width: 20%;
     padding-top: 0px;
@@ -60,9 +60,9 @@ body {
 #box9 {
     float: left;
     height: 45px;
-    margin: 0px;
+    margin: 0px 0px 0px -0.609375px;
     clear: none;
-    width: 20%;
+    width: 19.997298%;
     padding: 0px;
 }
 
@@ -82,19 +82,6 @@ body {
     clear: none;
     width: 50%;
     padding: 0px;
-}
-
-#image11 {
-    float: left;
-    width: auto;
-    max-width: 100%;
-    height: auto;
-    margin: 0px;
-    clear: none;
-    color: rgb(0, 0, 0);
-    position: static;
-    top: 0px;
-    left: 0px;
 }
 
 #image6 {
@@ -149,171 +136,6 @@ body {
     clear: none;
     color: rgb(0, 0, 0);
     margin-right: auto;
-}
-
-#slideshow {
-    float: left;
-    height: auto;
-    margin: 0px;
-    clear: both;
-    width: 100%;
-    position: relative;
-    top: 0px;
-    left: 0px;
-}
-
-#textholder {
-    float: left;
-    height: auto;
-    clear: both;
-    width: auto;
-    min-height: 0px;
-    border: 0px solid rgb(0, 0, 0);
-    padding: 10px;
-    position: static;
-    top: 0px;
-    left: 0px;
-    background-color: rgb(188, 21, 27);
-    margin: 0px;
-}
-
-#text11 {
-    float: left;
-    font-size: 22px;
-    width: auto;
-    height: auto;
-    text-align: left;
-    font-weight: 900;
-    line-height: 1em;
-    word-wrap: break-word;
-    margin: 0px;
-    clear: none;
-    min-height: 0px;
-    font-family: bree-serif;
-    color: rgba(255, 255, 255, 0.85098);
-}
-
-#slidemarker {
-    float: right;
-    height: auto;
-    clear: none;
-    width: 100px;
-    position: absolute;
-    top: auto;
-    left: auto;
-    bottom: -20px;
-    right: 15px;
-}
-
-#box15 {
-    float: left;
-    height: 10px;
-    margin: 0px 0px 0px 3px;
-    clear: none;
-    width: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.85098);
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
-    background-color: rgba(255, 255, 255, 0.85098);
-}
-
-#box16 {
-    float: left;
-    height: 10px;
-    margin: 0px 0px 0px 3px;
-    clear: none;
-    width: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.85098);
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
-}
-
-#box17 {
-    float: left;
-    height: 10px;
-    margin: 0px 0px 0px 3px;
-    clear: none;
-    width: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.85098);
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
-}
-
-#box18 {
-    float: left;
-    height: 10px;
-    margin: 0px 0px 0px 3px;
-    clear: none;
-    width: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.85098);
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
-}
-
-#text12 {
-    float: left;
-    font-size: 1em;
-    width: auto;
-    height: auto;
-    text-align: left;
-    font-weight: normal;
-    line-height: 18px;
-    word-wrap: break-word;
-    margin: 8px 0px 0px;
-    clear: both;
-    min-height: 0px;
-    color: rgba(255, 255, 255, 0.85098);
-}
-
-#box14 {
-    float: right;
-    height: auto;
-    margin-left: 0px;
-    margin-top: 0px;
-    clear: none;
-    width: auto;
-    margin-right: 0%;
-}
-
-#Imageholder {
-    float: left;
-    height: auto;
-    clear: none;
-    width: auto;
-    position: relative;
-    top: 0px;
-    left: 0px;
-    margin: 0px;
-}
-
-#text13 {
-    float: left;
-    font-size: 1em;
-    width: auto;
-    height: auto;
-    text-align: left;
-    font-weight: normal;
-    line-height: 18px;
-    word-wrap: break-word;
-    margin: 8px 0px 0px;
-    clear: both;
-    min-height: 0px;
-    color: rgba(255, 255, 255, 0.85098);
-    padding: 4px 8px 5px;
-    border-width: 1px;
-    border-style: solid;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-    border-bottom-left-radius: 5px;
 }
 
 #text7 {
@@ -390,86 +212,7 @@ body {
     height: auto;
     margin: 0px;
     clear: none;
-    width: 40%;
-}
-
-#box22 {
-    float: left;
-    height: auto;
-    margin: 0px;
-    clear: both;
-    width: 100%;
-    padding-right: 10px;
-    padding-left: 10px;
-    padding-top: 20px;
-}
-
-#image12 {
-    float: left;
-    width: auto;
-    max-width: 35%;
-    height: auto;
-    margin: 0px;
-    clear: none;
-    color: rgb(0, 0, 0);
-    border: 1px solid rgba(0, 0, 0, 0.341176);
-}
-
-#text35 {
-    float: left;
-    font-size: 22px;
-    width: auto;
-    height: auto;
-    text-align: left;
-    font-weight: 900;
-    line-height: 1em;
-    word-wrap: break-word;
-    margin: 0px;
-    clear: none;
-    min-height: 0px;
-    font-family: bree-serif;
-    color: rgb(0, 0, 0);
-}
-
-#text36 {
-    float: left;
-    font-size: 1em;
-    width: 100%;
-    height: auto;
-    text-align: left;
-    font-weight: normal;
-    line-height: 18px;
-    word-wrap: break-word;
-    margin: 8px 0px 0px;
-    clear: both;
-    min-height: 0px;
-    color: rgba(255, 255, 255, 0.85098);
-    display: block;
-}
-
-#text37 {
-    float: left;
-    font-size: 1em;
-    width: auto;
-    height: auto;
-    text-align: left;
-    font-weight: normal;
-    line-height: 1em;
-    word-wrap: break-word;
-    clear: none;
-    min-height: 0px;
-    margin: 0px;
-    text-decoration: underline;
-}
-
-#box23 {
-    float: left;
-    height: auto;
-    margin-left: 0%;
-    margin-top: 0px;
-    clear: none;
-    width: 65%;
-    padding-left: 15px;
+    width: 39.999099%;
 }
 
 #text108 {
@@ -552,14 +295,6 @@ body {
     min-height: 0px;
     padding-left: 15px;
     padding-right: 30px;
-}
-
-#box24 {
-    float: left;
-    height: auto;
-    margin: 8px 0px 0px;
-    clear: both;
-    width: auto;
 }
 
 #box106 {
@@ -995,10 +730,10 @@ body {
 
 #box2 {
     float: left;
-    height: 45px;
+    height: 0px;
     margin: 0px;
     clear: none;
-    width: 19.245283%;
+    width: 0%;
     display: none;
 }
 
@@ -1029,10 +764,10 @@ body {
 
 #box3 {
     float: left;
-    height: 45px;
+    height: 0px;
     margin: 0px;
     clear: none;
-    width: 19.245283%;
+    width: 0%;
     display: none;
 }
 
@@ -1053,10 +788,10 @@ body {
 
 #box4 {
     float: left;
-    height: 45px;
+    height: 0px;
     margin: 0px;
     clear: none;
-    width: 19.245283%;
+    width: 0%;
     display: none;
 }
 
@@ -1087,10 +822,10 @@ body {
 
 #box5 {
     float: left;
-    height: 45px;
+    height: 0px;
     margin: 0px;
     clear: none;
-    width: 19.245283%;
+    width: 0%;
     display: none;
 }
 
@@ -1121,10 +856,10 @@ body {
 
 #box6 {
     float: left;
-    height: 45px;
+    height: 0px;
     margin: 0px;
     clear: none;
-    width: 19.245283%;
+    width: 0%;
     display: none;
 }
 
@@ -1996,70 +1731,6 @@ body {
     padding: 4px 15px 0px;
 }
 
-#Box1 {
-    float: left;
-    height: auto;
-    clear: both;
-    width: 100%;
-    margin: 0px;
-    padding: 0px;
-    visibility: visible;
-}
-
-#box48 {
-    float: left;
-    height: auto;
-    margin: 0px;
-    clear: none;
-    width: 100%;
-}
-
-#Image {
-    float: none;
-    width: auto;
-    max-width: 100%;
-    height: auto;
-    margin: 0px auto;
-    clear: none;
-    color: rgb(0, 0, 0);
-}
-
-#Box2 {
-    float: left;
-    height: auto;
-    margin: 0px;
-    clear: both;
-    width: 100%;
-}
-
-#image22 {
-    float: none;
-    width: auto;
-    max-width: 100%;
-    height: auto;
-    margin: 0px auto;
-    clear: none;
-    color: rgb(0, 0, 0);
-}
-
-#Box3 {
-    float: left;
-    height: auto;
-    margin: 0px;
-    clear: both;
-    width: 100%;
-}
-
-#image23 {
-    float: none;
-    width: auto;
-    max-width: 100%;
-    height: auto;
-    margin: 0px auto;
-    clear: none;
-    color: rgb(0, 0, 0);
-}
-
 #box47 {
     float: left;
     height: auto;
@@ -2069,6 +1740,180 @@ body {
     width: 100%;
     padding: 0px;
     margin-bottom: 20px;
+}
+
+#text31 {
+    float: left;
+    font-size: 22px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 900;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin: 8px 0px;
+    clear: both;
+    min-height: 0px;
+    font-family: bree-serif;
+    color: rgb(0, 0, 0);
+}
+
+#text32 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 18px;
+    word-wrap: break-word;
+    margin-left: 21.618917%;
+    margin-top: 40.34375px;
+    clear: both;
+    min-height: 0px;
+    color: rgba(0, 0, 0, 0.85098);
+}
+
+#box21 {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: both;
+    width: 100%;
+    min-height: 0px;
+    border: 1px solid rgb(146, 146, 146);
+}
+
+#text34 {
+    float: left;
+    font-size: 1em;
+    width: 22.979864%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 32px;
+    background-color: rgb(66, 139, 202);
+    color: rgb(255, 255, 255);
+    padding: 8px 8px 8px 12px;
+}
+
+#text33 {
+    float: right;
+    font-size: 1em;
+    width: 77.02089%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin: 0px;
+    clear: none;
+    min-height: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: 1px solid rgb(89, 89, 89);
+    padding: 5px 8px;
+}
+
+#box22 {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: both;
+    width: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+#image12 {
+    float: left;
+    width: auto;
+    max-width: 35%;
+    height: auto;
+    margin: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    border: 1px solid rgba(0, 0, 0, 0.341176);
+}
+
+#box23 {
+    float: left;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 65%;
+    padding-left: 15px;
+}
+
+#text35 {
+    float: left;
+    font-size: 22px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 900;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin: 0px;
+    clear: none;
+    min-height: 0px;
+    font-family: bree-serif;
+    color: rgb(0, 0, 0);
+}
+
+#text36 {
+    float: left;
+    font-size: 1em;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 18px;
+    word-wrap: break-word;
+    margin: 8px 0px 0px;
+    clear: both;
+    min-height: 0px;
+    color: rgba(255, 255, 255, 0.85098);
+    display: block;
+}
+
+#textspan7 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgba(0, 0, 0, 0.85098);
+}
+
+#box24 {
+    float: left;
+    height: auto;
+    margin: 8px 0px 0px;
+    clear: both;
+    width: auto;
+}
+
+#text37 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    clear: none;
+    min-height: 0px;
+    margin: 0px;
+    text-decoration: underline;
 }
 
 #box49 {
@@ -2105,7 +1950,7 @@ body {
     font-weight: 900;
     line-height: 20px;
     word-wrap: break-word;
-    margin: 0px 0% 8px 0px;
+    margin: 0px 0px 8px;
     clear: none;
     min-height: 0px;
     padding-left: 15px;
@@ -2137,7 +1982,7 @@ body {
 #text53 {
     float: left;
     font-size: 1em;
-    width: 0%;
+    width: 0px;
     height: auto;
     text-align: left;
     font-weight: normal;
@@ -2176,7 +2021,7 @@ body {
 #box53 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 2px;
     clear: both;
     width: auto;
@@ -2214,7 +2059,7 @@ body {
 #box54 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 10px;
     clear: both;
     width: 100%;
@@ -2302,7 +2147,7 @@ body {
     font-weight: 900;
     line-height: 20px;
     word-wrap: break-word;
-    margin: 0px 0% 8px 0px;
+    margin: 0px 0px 8px;
     clear: none;
     min-height: 0px;
     padding-left: 15px;
@@ -2334,7 +2179,7 @@ body {
 #text58 {
     float: left;
     font-size: 1em;
-    width: 0%;
+    width: 0px;
     height: auto;
     text-align: left;
     font-weight: normal;
@@ -2373,7 +2218,7 @@ body {
 #box60 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 2px;
     clear: both;
     width: auto;
@@ -2411,7 +2256,7 @@ body {
 #box61 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 10px;
     clear: both;
     width: 100%;
@@ -2499,7 +2344,7 @@ body {
     font-weight: 900;
     line-height: 20px;
     word-wrap: break-word;
-    margin: 0px 0% 8px 0px;
+    margin: 0px 0px 8px;
     clear: none;
     min-height: 0px;
     padding-left: 15px;
@@ -2531,7 +2376,7 @@ body {
 #text63 {
     float: left;
     font-size: 1em;
-    width: 0%;
+    width: 0px;
     height: auto;
     text-align: left;
     font-weight: normal;
@@ -2570,7 +2415,7 @@ body {
 #box67 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 2px;
     clear: both;
     width: auto;
@@ -2608,7 +2453,7 @@ body {
 #box68 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 10px;
     clear: both;
     width: 100%;
@@ -2696,7 +2541,7 @@ body {
     font-weight: 900;
     line-height: 20px;
     word-wrap: break-word;
-    margin: 0px 0% 8px 0px;
+    margin: 0px 0px 8px;
     clear: none;
     min-height: 0px;
     padding-left: 15px;
@@ -2728,7 +2573,7 @@ body {
 #text68 {
     float: left;
     font-size: 1em;
-    width: 0%;
+    width: 0px;
     height: auto;
     text-align: left;
     font-weight: normal;
@@ -2767,7 +2612,7 @@ body {
 #box74 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 2px;
     clear: both;
     width: auto;
@@ -2805,7 +2650,7 @@ body {
 #box75 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 10px;
     clear: both;
     width: 100%;
@@ -2893,7 +2738,7 @@ body {
     font-weight: 900;
     line-height: 20px;
     word-wrap: break-word;
-    margin: 0px 0% 8px 0px;
+    margin: 0px 0px 8px;
     clear: none;
     min-height: 0px;
     padding-left: 15px;
@@ -2925,7 +2770,7 @@ body {
 #text73 {
     float: left;
     font-size: 1em;
-    width: 0%;
+    width: 0px;
     height: auto;
     text-align: left;
     font-weight: normal;
@@ -2964,7 +2809,7 @@ body {
 #box81 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 2px;
     clear: both;
     width: auto;
@@ -3002,7 +2847,7 @@ body {
 #box82 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 10px;
     clear: both;
     width: 100%;
@@ -3090,7 +2935,7 @@ body {
     font-weight: 900;
     line-height: 20px;
     word-wrap: break-word;
-    margin: 0px 0% 8px 0px;
+    margin: 0px 0px 8px;
     clear: none;
     min-height: 0px;
     padding-left: 15px;
@@ -3122,7 +2967,7 @@ body {
 #text78 {
     float: left;
     font-size: 1em;
-    width: 0%;
+    width: 0px;
     height: auto;
     text-align: left;
     font-weight: normal;
@@ -3161,7 +3006,7 @@ body {
 #box88 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 2px;
     clear: both;
     width: auto;
@@ -3199,7 +3044,7 @@ body {
 #box89 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 10px;
     clear: both;
     width: 100%;
@@ -3287,7 +3132,7 @@ body {
     font-weight: 900;
     line-height: 20px;
     word-wrap: break-word;
-    margin: 0px 0% 8px 0px;
+    margin: 0px 0px 8px;
     clear: none;
     min-height: 0px;
     padding-left: 15px;
@@ -3319,7 +3164,7 @@ body {
 #text83 {
     float: left;
     font-size: 1em;
-    width: 0%;
+    width: 0px;
     height: auto;
     text-align: left;
     font-weight: normal;
@@ -3358,7 +3203,7 @@ body {
 #box95 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 2px;
     clear: both;
     width: auto;
@@ -3396,7 +3241,7 @@ body {
 #box96 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 10px;
     clear: both;
     width: 100%;
@@ -3484,7 +3329,7 @@ body {
     font-weight: 900;
     line-height: 20px;
     word-wrap: break-word;
-    margin: 0px 0% 8px 0px;
+    margin: 0px 0px 8px;
     clear: none;
     min-height: 0px;
     padding-left: 15px;
@@ -3516,7 +3361,7 @@ body {
 #text88 {
     float: left;
     font-size: 1em;
-    width: 0%;
+    width: 0px;
     height: auto;
     text-align: left;
     font-weight: normal;
@@ -3555,7 +3400,7 @@ body {
 #box102 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 2px;
     clear: both;
     width: auto;
@@ -3593,7 +3438,7 @@ body {
 #box103 {
     float: left;
     height: auto;
-    margin-left: 0%;
+    margin-left: 0px;
     margin-top: 10px;
     clear: both;
     width: 100%;
@@ -3658,7 +3503,196 @@ body {
     color: rgb(255, 255, 255);
 }
 
-#text31 {
+#Box1 {
+    float: left;
+    height: auto;
+    clear: both;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    visibility: visible;
+}
+
+#box48 {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: none;
+    width: 100%;
+}
+
+#Image {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 0px auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#Box2 {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: both;
+    width: 100%;
+}
+
+#image22 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 0px auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#Box3 {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: both;
+    width: 100%;
+}
+
+#image23 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 0px auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#slideshow {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: both;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#Imageholder {
+    float: left;
+    height: auto;
+    clear: none;
+    width: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+}
+
+#slidemarker {
+    float: right;
+    height: auto;
+    clear: none;
+    width: 100px;
+    position: absolute;
+    top: auto;
+    left: auto;
+    bottom: 495px;
+    right: 3213px;
+}
+
+#box14 {
+    float: right;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: 0px;
+}
+
+#box15 {
+    float: left;
+    height: 10px;
+    margin: 0px 0px 0px 3px;
+    clear: none;
+    width: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.85098);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.85098);
+}
+
+#box16 {
+    float: left;
+    height: 10px;
+    margin: 0px 0px 0px 3px;
+    clear: none;
+    width: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.85098);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#box17 {
+    float: left;
+    height: 10px;
+    margin: 0px 0px 0px 3px;
+    clear: none;
+    width: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.85098);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#box18 {
+    float: left;
+    height: 10px;
+    margin: 0px 0px 0px 3px;
+    clear: none;
+    width: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.85098);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#image11 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: static;
+    top: 0px;
+    left: 0px;
+}
+
+#textholder {
+    float: left;
+    height: auto;
+    clear: both;
+    width: auto;
+    min-height: 0px;
+    border: 0px solid rgb(0, 0, 0);
+    padding: 10px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    background-color: rgb(188, 21, 27);
+}
+
+#text11 {
     float: left;
     font-size: 22px;
     width: auto;
@@ -3667,14 +3701,14 @@ body {
     font-weight: 900;
     line-height: 1em;
     word-wrap: break-word;
-    margin: 8px 0px;
-    clear: both;
+    margin: 0px;
+    clear: none;
     min-height: 0px;
     font-family: bree-serif;
-    color: rgb(0, 0, 0);
+    color: rgba(255, 255, 255, 0.85098);
 }
 
-#text32 {
+#text12 {
     float: left;
     font-size: 1em;
     width: auto;
@@ -3683,90 +3717,38 @@ body {
     font-weight: normal;
     line-height: 18px;
     word-wrap: break-word;
-    margin-left: 21.618917%;
-    margin-top: 40.34375px;
+    margin: 8px 0px 0px;
     clear: both;
     min-height: 0px;
-    color: rgba(0, 0, 0, 0.85098);
+    color: rgba(255, 255, 255, 0.85098);
 }
 
-#box21 {
-    float: left;
-    height: auto;
-    margin: 0px;
-    clear: both;
-    width: 100%;
-    min-height: 0px;
-    border: 1px solid rgb(146, 146, 146);
-}
-
-#text34 {
+#text13 {
     float: left;
     font-size: 1em;
-    width: 22.979864%;
+    width: auto;
     height: auto;
     text-align: left;
     font-weight: normal;
-    line-height: 1em;
+    line-height: 18px;
     word-wrap: break-word;
-    margin-left: 0%;
-    margin-top: 0px;
-    clear: none;
-    min-height: 32px;
-    background-color: rgb(66, 139, 202);
-    color: rgb(255, 255, 255);
-    padding: 8px 8px 8px 12px;
-}
-
-#text33 {
-    float: right;
-    font-size: 1em;
-    width: 77.02089%;
-    height: auto;
-    text-align: left;
-    font-weight: normal;
-    line-height: 1em;
-    word-wrap: break-word;
-    margin: 0px;
-    clear: none;
+    margin: 8px 0px 0px;
+    clear: both;
     min-height: 0px;
+    color: rgba(255, 255, 255, 0.85098);
+    padding: 4px 8px 5px;
+    border-width: 1px;
+    border-style: solid;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
-    border: 1px solid rgb(89, 89, 89);
-    padding: 5px 8px;
-}
-
-#textspan7 {
-    float: none;
-    font-size: 1em;
-    line-height: 1em;
-    color: rgba(0, 0, 0, 0.85098);
 }
 
 @media only screen and (min-width: 768px) {
    #box7 {
         width: auto;
         padding-right: 20px;
-   }
-
-   #textholder {
-        position: absolute;
-        margin: 0px;
-        top: 4.999395%;
-        left: 5.107454%;
-        right: auto;
-        bottom: auto;
-        width: 40%;
-        background-color: rgba(188, 21, 27, 0.921569);
-        padding: 15px;
-   }
-
-   #slidemarker {
-        bottom: 15px;
-        top: auto;
-        z-index: 0;
    }
 
    #image8 {
@@ -3904,16 +3886,6 @@ body {
         clear: both;
    }
 
-   #slideshow {
-        width: 100%;
-   }
-
-   #box22 {
-        width: 100%;
-        padding-right: 15px;
-        padding-left: 15px;
-   }
-
    #box26 {
         height: auto;
         width: 100%;
@@ -3933,39 +3905,11 @@ body {
         margin-bottom: 8px;
    }
 
-   #text37 {
-        text-decoration: none;
-   }
-
    #box25 {
         width: 100%;
         height: auto;
         padding-right: 15px;
         padding-left: 15px;
-   }
-
-   #box24 {
-        border: 1px solid rgba(0, 0, 0, 0.6);
-        padding: 10px;
-        border-top-left-radius: 5px;
-        border-top-right-radius: 5px;
-        border-bottom-right-radius: 5px;
-        border-bottom-left-radius: 5px;
-        margin-top: 15px;
-   }
-
-   #text36 {
-        width: 80%;
-        color: rgb(0, 0, 0);
-        display: block;
-   }
-
-   #image12 {
-        max-width: 200px;
-   }
-
-   #box23 {
-        width: 70%;
    }
 
    #box107 {
@@ -4009,7 +3953,7 @@ body {
    }
 
    #image {
-        margin: 15px auto;
+        margin: 10px auto;
         float: none;
         clear: none;
    }
@@ -4024,11 +3968,6 @@ body {
 
    #box {
         display: none;
-   }
-
-   #Imageholder {
-        max-height: 480px;
-        overflow: hidden;
    }
 
    #box9 {
@@ -4208,45 +4147,6 @@ body {
         clear: none;
    }
 
-   #box48 {
-        width: 33.3%;
-        padding: 0px 0px 0px 15px;
-        margin-left: 0px;
-   }
-
-   #Box2 {
-        width: 33.299697%;
-        clear: none;
-        padding: 0px 0px 0px 15px;
-   }
-
-   #Box3 {
-        width: 33.299697%;
-        clear: none;
-        padding-left: 15px;
-   }
-
-   #image23 {
-        padding: 0px;
-   }
-
-   #Box1 {
-        padding: 15px 15px 15px 0px;
-        margin-top: 0px;
-        margin-left: 0%;
-        clear: none;
-        width: 100%;
-        background-color: rgb(239, 235, 232);
-   }
-
-   #Image {
-        padding: 0px;
-   }
-
-   #image22 {
-        padding: 0px;
-   }
-
    #box47 {
         float: left;
         height: auto;
@@ -4255,6 +4155,40 @@ body {
         clear: both;
         width: 100%;
         padding: 0px 15px;
+   }
+
+   #box22 {
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+   }
+
+   #image12 {
+        max-width: 200px;
+   }
+
+   #box23 {
+        width: 70%;
+   }
+
+   #text36 {
+        width: 80%;
+        color: rgb(0, 0, 0);
+        display: block;
+   }
+
+   #box24 {
+        border: 1px solid rgba(0, 0, 0, 0.6);
+        padding: 10px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-bottom-left-radius: 5px;
+        margin-top: 15px;
+   }
+
+   #text37 {
+        text-decoration: none;
    }
 
    #box49 {
@@ -4575,6 +4509,72 @@ body {
         margin: 0px;
         clear: none;
    }
+
+   #Box1 {
+        padding: 15px 15px 15px 0px;
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: none;
+        width: 100%;
+        background-color: rgb(239, 235, 232);
+   }
+
+   #box48 {
+        width: 33.3%;
+        padding: 0px 0px 0px 15px;
+        margin-left: 0px;
+   }
+
+   #Image {
+        padding: 0px;
+   }
+
+   #Box2 {
+        width: 33.299697%;
+        clear: none;
+        padding: 0px 0px 0px 15px;
+   }
+
+   #image22 {
+        padding: 0px;
+   }
+
+   #Box3 {
+        width: 33.299697%;
+        clear: none;
+        padding-left: 15px;
+   }
+
+   #image23 {
+        padding: 0px;
+   }
+
+   #slideshow {
+        width: 100%;
+   }
+
+   #Imageholder {
+        max-height: 480px;
+        overflow: hidden;
+   }
+
+   #slidemarker {
+        bottom: 15px;
+        top: auto;
+        z-index: 0;
+   }
+
+   #textholder {
+        position: absolute;
+        margin: 0px;
+        top: 4.999395%;
+        left: 5.107454%;
+        right: auto;
+        bottom: auto;
+        width: 40%;
+        padding: 15px;
+        background-color: rgba(188, 21, 27, 0.921569);
+   }
 }
 
 @media only screen and (min-width: 992px) {
@@ -4591,6 +4591,7 @@ body {
 
    #Navbar {
         width: 100%;
+        background-color: rgb(188, 21, 27);
    }
 
    #image {
@@ -4598,14 +4599,6 @@ body {
         float: left;
         clear: none;
         padding: 0px;
-   }
-
-   #box22 {
-        padding-right: 15px;
-        margin: 0px;
-        width: 75%;
-        float: left;
-        clear: none;
    }
 
    #text {
@@ -4622,10 +4615,6 @@ body {
         clear: none;
         min-height: 0px;
         margin-right: 0%;
-   }
-
-   #slideshow {
-        width: 100%;
    }
 
    #box25 {
@@ -4702,15 +4691,6 @@ body {
 
    .primaryContainer {
         padding: 0px;
-   }
-
-   #image11 {
-        margin: 0px 8px 0px 0px;
-   }
-
-   #Imageholder {
-        overflow: hidden;
-        height: auto;
    }
 
    #box8 {
@@ -4848,11 +4828,6 @@ body {
         margin: 20px 0px 0px 6px;
         clear: none;
         color: rgb(0, 0, 0);
-   }
-
-   #textholder {
-        top: 10%;
-        bottom: auto;
    }
 
    #Rubrik {
@@ -5422,799 +5397,13 @@ body {
         font-weight: 900;
    }
 
-   #Box1 {
-        background-color: rgb(239, 235, 232);
-        padding: 0px 15px 0px 0px;
-        width: auto;
-        margin: 0px;
-        float: right;
-        clear: both;
-   }
-
-   #box48 {
-        padding: 15px 0px 15px 15px;
-   }
-
-   #Box2 {
-        padding: 15px 0px 15px 15px;
-   }
-
-   #image23 {
-        padding: 0px;
-   }
-
    #box47 {
         width: 75%;
-        margin-left: 0px;
-        margin-right: 0%;
         float: right;
+        clear: both;
         margin-top: -149.71875px;
-        clear: both;
-   }
-
-   #Box3 {
-        padding: 15px 0px 15px 15px;
-   }
-
-   #box49 {
-        width: 75%;
-        margin: 20px 0% 0px 0px;
-        clear: right;
-        float: right;
-        padding-left: 15px;
-        padding-right: 15px;
-   }
-
-   #box50 {
-        height: auto;
-        width: 50%;
-        clear: none;
-        margin-top: 10px;
-        margin-left: 0px;
-        border: 1px dashed rgba(0, 0, 0, 0.341176);
-   }
-
-   #Rubrik3 {
-        width: 70%;
-        padding: 0px 30px 0px 15px;
-        margin-top: 15px;
-   }
-
-   #box51 {
-        margin: 0px;
-        float: left;
-        clear: none;
-        width: 30%;
-        padding: 0px;
-        border-style: none;
-   }
-
-   #text53 {
-        width: 70%;
-        margin: 0px 0px 8px;
-        clear: right;
-   }
-
-   #image25 {
-        display: none;
-   }
-
-   #box52 {
-        width: 100%;
-   }
-
-   #box53 {
-        clear: none;
-        margin-top: 19px;
-        margin-left: 0%;
-   }
-
-   #box54 {
-        width: auto;
-        clear: none;
-        margin-left: 0px;
         margin-right: 0%;
-        float: right;
-        margin-top: 0px;
-        padding-right: 15px;
-   }
-
-   #box55 {
-        clear: none;
-   }
-
-   #box56 {
-        width: 60px;
-        clear: both;
         margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 6px;
-        display: block;
-        height: 25px;
-        border-top-left-radius: 4px;
-        border-top-right-radius: 4px;
-        border-bottom-right-radius: 4px;
-        border-bottom-left-radius: 4px;
-        background-color: rgb(66, 139, 202);
-   }
-
-   #text57 {
-        float: left;
-        font-size: 1em;
-        width: 100%;
-        height: auto;
-        text-align: center;
-        font-weight: normal;
-        line-height: 1em;
-        word-wrap: break-word;
-        margin: 5px 0px 0px;
-        clear: none;
-        min-height: 0px;
-        color: rgb(255, 255, 255);
-   }
-
-   #image24 {
-        margin-top: 15px;
-        margin-bottom: 15px;
-   }
-
-   #box57 {
-        height: auto;
-        width: 50%;
-        clear: none;
-        margin-top: 10px;
-        margin-left: 0px;
-        border: 1px dashed rgba(0, 0, 0, 0.341176);
-   }
-
-   #Rubrik4 {
-        width: 70%;
-        padding: 0px 30px 0px 15px;
-        margin-top: 15px;
-   }
-
-   #box58 {
-        margin: 0px;
-        float: left;
-        clear: none;
-        width: 30%;
-        padding: 0px;
-        border-style: none;
-   }
-
-   #image27 {
-        margin-top: 15px;
-        margin-bottom: 15px;
-   }
-
-   #text58 {
-        width: 70%;
-        margin: 0px 0px 8px;
-        clear: right;
-   }
-
-   #image28 {
-        display: none;
-   }
-
-   #box59 {
-        width: 100%;
-   }
-
-   #box60 {
-        clear: none;
-        margin-top: 19px;
-        margin-left: 0%;
-   }
-
-   #box61 {
-        width: auto;
-        clear: none;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 0px;
-        padding-right: 15px;
-   }
-
-   #box62 {
-        clear: none;
-   }
-
-   #box63 {
-        width: 60px;
-        clear: both;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 6px;
-        display: block;
-        height: 25px;
-        border-top-left-radius: 4px;
-        border-top-right-radius: 4px;
-        border-bottom-right-radius: 4px;
-        border-bottom-left-radius: 4px;
-        background-color: rgb(66, 139, 202);
-   }
-
-   #text62 {
-        float: left;
-        font-size: 1em;
-        width: 100%;
-        height: auto;
-        text-align: center;
-        font-weight: normal;
-        line-height: 1em;
-        word-wrap: break-word;
-        margin: 5px 0px 0px;
-        clear: none;
-        min-height: 0px;
-        color: rgb(255, 255, 255);
-   }
-
-   #box64 {
-        height: auto;
-        width: 50%;
-        clear: none;
-        margin-top: 10px;
-        margin-left: 0px;
-        border: 1px dashed rgba(0, 0, 0, 0.341176);
-   }
-
-   #Rubrik5 {
-        width: 70%;
-        padding: 0px 30px 0px 15px;
-        margin-top: 15px;
-   }
-
-   #box65 {
-        margin: 0px;
-        float: left;
-        clear: none;
-        width: 30%;
-        padding: 0px;
-        border-style: none;
-   }
-
-   #image30 {
-        margin-top: 15px;
-        margin-bottom: 15px;
-   }
-
-   #text63 {
-        width: 70%;
-        margin: 0px 0px 8px;
-        clear: right;
-   }
-
-   #image31 {
-        display: none;
-   }
-
-   #box66 {
-        width: 100%;
-   }
-
-   #box67 {
-        clear: none;
-        margin-top: 19px;
-        margin-left: 0%;
-   }
-
-   #box68 {
-        width: auto;
-        clear: none;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 0px;
-        padding-right: 15px;
-   }
-
-   #box69 {
-        clear: none;
-   }
-
-   #box70 {
-        width: 60px;
-        clear: both;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 6px;
-        display: block;
-        height: 25px;
-        border-top-left-radius: 4px;
-        border-top-right-radius: 4px;
-        border-bottom-right-radius: 4px;
-        border-bottom-left-radius: 4px;
-        background-color: rgb(66, 139, 202);
-   }
-
-   #text67 {
-        float: left;
-        font-size: 1em;
-        width: 100%;
-        height: auto;
-        text-align: center;
-        font-weight: normal;
-        line-height: 1em;
-        word-wrap: break-word;
-        margin: 5px 0px 0px;
-        clear: none;
-        min-height: 0px;
-        color: rgb(255, 255, 255);
-   }
-
-   #box71 {
-        height: auto;
-        width: 50%;
-        clear: none;
-        margin-top: 10px;
-        margin-left: 0px;
-        border: 1px dashed rgba(0, 0, 0, 0.341176);
-   }
-
-   #Rubrik6 {
-        width: 70%;
-        padding: 0px 30px 0px 15px;
-        margin-top: 15px;
-   }
-
-   #box72 {
-        margin: 0px;
-        float: left;
-        clear: none;
-        width: 30%;
-        padding: 0px;
-        border-style: none;
-   }
-
-   #image33 {
-        margin-top: 15px;
-        margin-bottom: 15px;
-   }
-
-   #text68 {
-        width: 70%;
-        margin: 0px 0px 8px;
-        clear: right;
-   }
-
-   #image34 {
-        display: none;
-   }
-
-   #box73 {
-        width: 100%;
-   }
-
-   #box74 {
-        clear: none;
-        margin-top: 19px;
-        margin-left: 0%;
-   }
-
-   #box75 {
-        width: auto;
-        clear: none;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 0px;
-        padding-right: 15px;
-   }
-
-   #box76 {
-        clear: none;
-   }
-
-   #box77 {
-        width: 60px;
-        clear: both;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 6px;
-        display: block;
-        height: 25px;
-        border-top-left-radius: 4px;
-        border-top-right-radius: 4px;
-        border-bottom-right-radius: 4px;
-        border-bottom-left-radius: 4px;
-        background-color: rgb(66, 139, 202);
-   }
-
-   #text72 {
-        float: left;
-        font-size: 1em;
-        width: 100%;
-        height: auto;
-        text-align: center;
-        font-weight: normal;
-        line-height: 1em;
-        word-wrap: break-word;
-        margin: 5px 0px 0px;
-        clear: none;
-        min-height: 0px;
-        color: rgb(255, 255, 255);
-   }
-
-   #box78 {
-        height: auto;
-        width: 50%;
-        clear: none;
-        margin-top: 10px;
-        margin-left: 0px;
-        border: 1px dashed rgba(0, 0, 0, 0.341176);
-   }
-
-   #Rubrik7 {
-        width: 70%;
-        padding: 0px 30px 0px 15px;
-        margin-top: 15px;
-   }
-
-   #box79 {
-        margin: 0px;
-        float: left;
-        clear: none;
-        width: 30%;
-        padding: 0px;
-        border-style: none;
-   }
-
-   #image36 {
-        margin-top: 15px;
-        margin-bottom: 15px;
-   }
-
-   #text73 {
-        width: 70%;
-        margin: 0px 0px 8px;
-        clear: right;
-   }
-
-   #image37 {
-        display: none;
-   }
-
-   #box80 {
-        width: 100%;
-   }
-
-   #box81 {
-        clear: none;
-        margin-top: 19px;
-        margin-left: 0%;
-   }
-
-   #box82 {
-        width: auto;
-        clear: none;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 0px;
-        padding-right: 15px;
-   }
-
-   #box83 {
-        clear: none;
-   }
-
-   #box84 {
-        width: 60px;
-        clear: both;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 6px;
-        display: block;
-        height: 25px;
-        border-top-left-radius: 4px;
-        border-top-right-radius: 4px;
-        border-bottom-right-radius: 4px;
-        border-bottom-left-radius: 4px;
-        background-color: rgb(66, 139, 202);
-   }
-
-   #text77 {
-        float: left;
-        font-size: 1em;
-        width: 100%;
-        height: auto;
-        text-align: center;
-        font-weight: normal;
-        line-height: 1em;
-        word-wrap: break-word;
-        margin: 5px 0px 0px;
-        clear: none;
-        min-height: 0px;
-        color: rgb(255, 255, 255);
-   }
-
-   #box85 {
-        height: auto;
-        width: 50%;
-        clear: none;
-        margin-top: 10px;
-        margin-left: 0px;
-        border: 1px dashed rgba(0, 0, 0, 0.341176);
-   }
-
-   #Rubrik8 {
-        width: 70%;
-        padding: 0px 30px 0px 15px;
-        margin-top: 15px;
-   }
-
-   #box86 {
-        margin: 0px;
-        float: left;
-        clear: none;
-        width: 30%;
-        padding: 0px;
-        border-style: none;
-   }
-
-   #image39 {
-        margin-top: 15px;
-        margin-bottom: 15px;
-   }
-
-   #text78 {
-        width: 70%;
-        margin: 0px 0px 8px;
-        clear: right;
-   }
-
-   #image40 {
-        display: none;
-   }
-
-   #box87 {
-        width: 100%;
-   }
-
-   #box88 {
-        clear: none;
-        margin-top: 19px;
-        margin-left: 0%;
-   }
-
-   #box89 {
-        width: auto;
-        clear: none;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 0px;
-        padding-right: 15px;
-   }
-
-   #box90 {
-        clear: none;
-   }
-
-   #box91 {
-        width: 60px;
-        clear: both;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 6px;
-        display: block;
-        height: 25px;
-        border-top-left-radius: 4px;
-        border-top-right-radius: 4px;
-        border-bottom-right-radius: 4px;
-        border-bottom-left-radius: 4px;
-        background-color: rgb(66, 139, 202);
-   }
-
-   #text82 {
-        float: left;
-        font-size: 1em;
-        width: 100%;
-        height: auto;
-        text-align: center;
-        font-weight: normal;
-        line-height: 1em;
-        word-wrap: break-word;
-        margin: 5px 0px 0px;
-        clear: none;
-        min-height: 0px;
-        color: rgb(255, 255, 255);
-   }
-
-   #box92 {
-        height: auto;
-        width: 50%;
-        clear: none;
-        margin-top: 10px;
-        margin-left: 0px;
-        border: 1px dashed rgba(0, 0, 0, 0.341176);
-   }
-
-   #Rubrik9 {
-        width: 70%;
-        padding: 0px 30px 0px 15px;
-        margin-top: 15px;
-   }
-
-   #box93 {
-        margin: 0px;
-        float: left;
-        clear: none;
-        width: 30%;
-        padding: 0px;
-        border-style: none;
-   }
-
-   #image42 {
-        margin-top: 15px;
-        margin-bottom: 15px;
-   }
-
-   #text83 {
-        width: 70%;
-        margin: 0px 0px 8px;
-        clear: right;
-   }
-
-   #image43 {
-        display: none;
-   }
-
-   #box94 {
-        width: 100%;
-   }
-
-   #box95 {
-        clear: none;
-        margin-top: 19px;
-        margin-left: 0%;
-   }
-
-   #box96 {
-        width: auto;
-        clear: none;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 0px;
-        padding-right: 15px;
-   }
-
-   #box97 {
-        clear: none;
-   }
-
-   #box98 {
-        width: 60px;
-        clear: both;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 6px;
-        display: block;
-        height: 25px;
-        border-top-left-radius: 4px;
-        border-top-right-radius: 4px;
-        border-bottom-right-radius: 4px;
-        border-bottom-left-radius: 4px;
-        background-color: rgb(66, 139, 202);
-   }
-
-   #text87 {
-        float: left;
-        font-size: 1em;
-        width: 100%;
-        height: auto;
-        text-align: center;
-        font-weight: normal;
-        line-height: 1em;
-        word-wrap: break-word;
-        margin: 5px 0px 0px;
-        clear: none;
-        min-height: 0px;
-        color: rgb(255, 255, 255);
-   }
-
-   #box99 {
-        height: auto;
-        width: 50%;
-        clear: none;
-        margin-top: 10px;
-        margin-left: 0px;
-        border: 1px dashed rgba(0, 0, 0, 0.341176);
-   }
-
-   #Rubrik10 {
-        width: 70%;
-        padding: 0px 30px 0px 15px;
-        margin-top: 15px;
-   }
-
-   #box100 {
-        margin: 0px;
-        float: left;
-        clear: none;
-        width: 30%;
-        padding: 0px;
-        border-style: none;
-   }
-
-   #image45 {
-        margin-top: 15px;
-        margin-bottom: 15px;
-   }
-
-   #text88 {
-        width: 70%;
-        margin: 0px 0px 8px;
-        clear: right;
-   }
-
-   #image46 {
-        display: none;
-   }
-
-   #box101 {
-        width: 100%;
-   }
-
-   #box102 {
-        clear: none;
-        margin-top: 19px;
-        margin-left: 0%;
-   }
-
-   #box103 {
-        width: auto;
-        clear: none;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 0px;
-        padding-right: 15px;
-   }
-
-   #box104 {
-        clear: none;
-   }
-
-   #box105 {
-        width: 60px;
-        clear: both;
-        margin-left: 0px;
-        margin-right: 0%;
-        float: right;
-        margin-top: 6px;
-        display: block;
-        height: 25px;
-        border-top-left-radius: 4px;
-        border-top-right-radius: 4px;
-        border-bottom-right-radius: 4px;
-        border-bottom-left-radius: 4px;
-        background-color: rgb(66, 139, 202);
-   }
-
-   #text92 {
-        float: left;
-        font-size: 1em;
-        width: 100%;
-        height: auto;
-        text-align: center;
-        font-weight: normal;
-        line-height: 1em;
-        word-wrap: break-word;
-        margin: 5px 0px 0px;
-        clear: none;
-        min-height: 0px;
-        color: rgb(255, 255, 255);
    }
 
    #text32 {
@@ -6290,22 +5479,823 @@ body {
         line-height: 1em;
         font-weight: 900;
    }
-}
 
-@media only screen and (min-width: 1230px) {
-   #Navbar {
+   #box22 {
+        padding-right: 15px;
+        margin: 0px;
+        width: 75%;
+        float: left;
+        clear: none;
+   }
+
+   #box49 {
+        width: 75%;
+        margin: 20px 0px 0px;
+        clear: right;
+        float: right;
+        padding-left: 15px;
+        padding-right: 15px;
+   }
+
+   #box50 {
+        height: auto;
+        width: 50%;
+        clear: none;
+        margin-top: 10px;
+        margin-left: 0px;
+        border: 1px dashed rgba(0, 0, 0, 0.341176);
+   }
+
+   #Rubrik3 {
+        width: 70%;
+        padding: 0px 30px 0px 15px;
+        margin-top: 15px;
+   }
+
+   #box51 {
+        margin: 0px;
+        float: left;
+        clear: none;
+        width: 30%;
+        padding: 0px;
+        border-style: none;
+   }
+
+   #image24 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+   }
+
+   #text53 {
+        width: 70%;
+        margin: 0px 0px 8px;
+        clear: right;
+   }
+
+   #image25 {
+        display: none;
+   }
+
+   #box52 {
         width: 100%;
+   }
+
+   #box53 {
+        clear: none;
+        margin-top: 19px;
+        margin-left: 0px;
+   }
+
+   #box54 {
+        width: auto;
+        clear: none;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 0px;
+        padding-right: 15px;
+   }
+
+   #box55 {
+        clear: none;
+   }
+
+   #box56 {
+        width: 60px;
+        clear: both;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 6px;
+        display: block;
+        height: 25px;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+        border-bottom-left-radius: 4px;
+        background-color: rgb(66, 139, 202);
+   }
+
+   #text57 {
+        float: left;
+        font-size: 1em;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        font-weight: normal;
+        line-height: 1em;
+        word-wrap: break-word;
+        margin: 5px 0px 0px;
+        clear: none;
+        min-height: 0px;
+        color: rgb(255, 255, 255);
+   }
+
+   #box57 {
+        height: auto;
+        width: 50%;
+        clear: none;
+        margin-top: 10px;
+        margin-left: 0px;
+        border: 1px dashed rgba(0, 0, 0, 0.341176);
+   }
+
+   #Rubrik4 {
+        width: 70%;
+        padding: 0px 30px 0px 15px;
+        margin-top: 15px;
+   }
+
+   #box58 {
+        margin: 0px;
+        float: left;
+        clear: none;
+        width: 30%;
+        padding: 0px;
+        border-style: none;
+   }
+
+   #image27 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+   }
+
+   #text58 {
+        width: 70%;
+        margin: 0px 0px 8px;
+        clear: right;
+   }
+
+   #image28 {
+        display: none;
+   }
+
+   #box59 {
+        width: 100%;
+   }
+
+   #box60 {
+        clear: none;
+        margin-top: 19px;
+        margin-left: 0px;
+   }
+
+   #box61 {
+        width: auto;
+        clear: none;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 0px;
+        padding-right: 15px;
+   }
+
+   #box62 {
+        clear: none;
+   }
+
+   #box63 {
+        width: 60px;
+        clear: both;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 6px;
+        display: block;
+        height: 25px;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+        border-bottom-left-radius: 4px;
+        background-color: rgb(66, 139, 202);
+   }
+
+   #text62 {
+        float: left;
+        font-size: 1em;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        font-weight: normal;
+        line-height: 1em;
+        word-wrap: break-word;
+        margin: 5px 0px 0px;
+        clear: none;
+        min-height: 0px;
+        color: rgb(255, 255, 255);
+   }
+
+   #box64 {
+        height: auto;
+        width: 50%;
+        clear: none;
+        margin-top: 10px;
+        margin-left: 0px;
+        border: 1px dashed rgba(0, 0, 0, 0.341176);
+   }
+
+   #Rubrik5 {
+        width: 70%;
+        padding: 0px 30px 0px 15px;
+        margin-top: 15px;
+   }
+
+   #box65 {
+        margin: 0px;
+        float: left;
+        clear: none;
+        width: 30%;
+        padding: 0px;
+        border-style: none;
+   }
+
+   #image30 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+   }
+
+   #text63 {
+        width: 70%;
+        margin: 0px 0px 8px;
+        clear: right;
+   }
+
+   #image31 {
+        display: none;
+   }
+
+   #box66 {
+        width: 100%;
+   }
+
+   #box67 {
+        clear: none;
+        margin-top: 19px;
+        margin-left: 0px;
+   }
+
+   #box68 {
+        width: auto;
+        clear: none;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 0px;
+        padding-right: 15px;
+   }
+
+   #box69 {
+        clear: none;
+   }
+
+   #box70 {
+        width: 60px;
+        clear: both;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 6px;
+        display: block;
+        height: 25px;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+        border-bottom-left-radius: 4px;
+        background-color: rgb(66, 139, 202);
+   }
+
+   #text67 {
+        float: left;
+        font-size: 1em;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        font-weight: normal;
+        line-height: 1em;
+        word-wrap: break-word;
+        margin: 5px 0px 0px;
+        clear: none;
+        min-height: 0px;
+        color: rgb(255, 255, 255);
+   }
+
+   #box71 {
+        height: auto;
+        width: 50%;
+        clear: none;
+        margin-top: 10px;
+        margin-left: 0px;
+        border: 1px dashed rgba(0, 0, 0, 0.341176);
+   }
+
+   #Rubrik6 {
+        width: 70%;
+        padding: 0px 30px 0px 15px;
+        margin-top: 15px;
+   }
+
+   #box72 {
+        margin: 0px;
+        float: left;
+        clear: none;
+        width: 30%;
+        padding: 0px;
+        border-style: none;
+   }
+
+   #image33 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+   }
+
+   #text68 {
+        width: 70%;
+        margin: 0px 0px 8px;
+        clear: right;
+   }
+
+   #image34 {
+        display: none;
+   }
+
+   #box73 {
+        width: 100%;
+   }
+
+   #box74 {
+        clear: none;
+        margin-top: 19px;
+        margin-left: 0px;
+   }
+
+   #box75 {
+        width: auto;
+        clear: none;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 0px;
+        padding-right: 15px;
+   }
+
+   #box76 {
+        clear: none;
+   }
+
+   #box77 {
+        width: 60px;
+        clear: both;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 6px;
+        display: block;
+        height: 25px;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+        border-bottom-left-radius: 4px;
+        background-color: rgb(66, 139, 202);
+   }
+
+   #text72 {
+        float: left;
+        font-size: 1em;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        font-weight: normal;
+        line-height: 1em;
+        word-wrap: break-word;
+        margin: 5px 0px 0px;
+        clear: none;
+        min-height: 0px;
+        color: rgb(255, 255, 255);
+   }
+
+   #box78 {
+        height: auto;
+        width: 50%;
+        clear: none;
+        margin-top: 10px;
+        margin-left: 0px;
+        border: 1px dashed rgba(0, 0, 0, 0.341176);
+   }
+
+   #Rubrik7 {
+        width: 70%;
+        padding: 0px 30px 0px 15px;
+        margin-top: 15px;
+   }
+
+   #box79 {
+        margin: 0px;
+        float: left;
+        clear: none;
+        width: 30%;
+        padding: 0px;
+        border-style: none;
+   }
+
+   #image36 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+   }
+
+   #text73 {
+        width: 70%;
+        margin: 0px 0px 8px;
+        clear: right;
+   }
+
+   #image37 {
+        display: none;
+   }
+
+   #box80 {
+        width: 100%;
+   }
+
+   #box81 {
+        clear: none;
+        margin-top: 19px;
+        margin-left: 0px;
+   }
+
+   #box82 {
+        width: auto;
+        clear: none;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 0px;
+        padding-right: 15px;
+   }
+
+   #box83 {
+        clear: none;
+   }
+
+   #box84 {
+        width: 60px;
+        clear: both;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 6px;
+        display: block;
+        height: 25px;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+        border-bottom-left-radius: 4px;
+        background-color: rgb(66, 139, 202);
+   }
+
+   #text77 {
+        float: left;
+        font-size: 1em;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        font-weight: normal;
+        line-height: 1em;
+        word-wrap: break-word;
+        margin: 5px 0px 0px;
+        clear: none;
+        min-height: 0px;
+        color: rgb(255, 255, 255);
+   }
+
+   #box85 {
+        height: auto;
+        width: 50%;
+        clear: none;
+        margin-top: 10px;
+        margin-left: 0px;
+        border: 1px dashed rgba(0, 0, 0, 0.341176);
+   }
+
+   #Rubrik8 {
+        width: 70%;
+        padding: 0px 30px 0px 15px;
+        margin-top: 15px;
+   }
+
+   #box86 {
+        margin: 0px;
+        float: left;
+        clear: none;
+        width: 30%;
+        padding: 0px;
+        border-style: none;
+   }
+
+   #image39 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+   }
+
+   #text78 {
+        width: 70%;
+        margin: 0px 0px 8px;
+        clear: right;
+   }
+
+   #image40 {
+        display: none;
+   }
+
+   #box87 {
+        width: 100%;
+   }
+
+   #box88 {
+        clear: none;
+        margin-top: 19px;
+        margin-left: 0px;
+   }
+
+   #box89 {
+        width: auto;
+        clear: none;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 0px;
+        padding-right: 15px;
+   }
+
+   #box90 {
+        clear: none;
+   }
+
+   #box91 {
+        width: 60px;
+        clear: both;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 6px;
+        display: block;
+        height: 25px;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+        border-bottom-left-radius: 4px;
+        background-color: rgb(66, 139, 202);
+   }
+
+   #text82 {
+        float: left;
+        font-size: 1em;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        font-weight: normal;
+        line-height: 1em;
+        word-wrap: break-word;
+        margin: 5px 0px 0px;
+        clear: none;
+        min-height: 0px;
+        color: rgb(255, 255, 255);
+   }
+
+   #box92 {
+        height: auto;
+        width: 50%;
+        clear: none;
+        margin-top: 10px;
+        margin-left: 0px;
+        border: 1px dashed rgba(0, 0, 0, 0.341176);
+   }
+
+   #Rubrik9 {
+        width: 70%;
+        padding: 0px 30px 0px 15px;
+        margin-top: 15px;
+   }
+
+   #box93 {
+        margin: 0px;
+        float: left;
+        clear: none;
+        width: 30%;
+        padding: 0px;
+        border-style: none;
+   }
+
+   #image42 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+   }
+
+   #text83 {
+        width: 70%;
+        margin: 0px 0px 8px;
+        clear: right;
+   }
+
+   #image43 {
+        display: none;
+   }
+
+   #box94 {
+        width: 100%;
+   }
+
+   #box95 {
+        clear: none;
+        margin-top: 19px;
+        margin-left: 0px;
+   }
+
+   #box96 {
+        width: auto;
+        clear: none;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 0px;
+        padding-right: 15px;
+   }
+
+   #box97 {
+        clear: none;
+   }
+
+   #box98 {
+        width: 60px;
+        clear: both;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 6px;
+        display: block;
+        height: 25px;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+        border-bottom-left-radius: 4px;
+        background-color: rgb(66, 139, 202);
+   }
+
+   #text87 {
+        float: left;
+        font-size: 1em;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        font-weight: normal;
+        line-height: 1em;
+        word-wrap: break-word;
+        margin: 5px 0px 0px;
+        clear: none;
+        min-height: 0px;
+        color: rgb(255, 255, 255);
+   }
+
+   #box99 {
+        height: auto;
+        width: 50%;
+        clear: none;
+        margin-top: 10px;
+        margin-left: 0px;
+        border: 1px dashed rgba(0, 0, 0, 0.341176);
+   }
+
+   #Rubrik10 {
+        width: 70%;
+        padding: 0px 30px 0px 15px;
+        margin-top: 15px;
+   }
+
+   #box100 {
+        margin: 0px;
+        float: left;
+        clear: none;
+        width: 30%;
+        padding: 0px;
+        border-style: none;
+   }
+
+   #image45 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+   }
+
+   #text88 {
+        width: 70%;
+        margin: 0px 0px 8px;
+        clear: right;
+   }
+
+   #image46 {
+        display: none;
+   }
+
+   #box101 {
+        width: 100%;
+   }
+
+   #box102 {
+        clear: none;
+        margin-top: 19px;
+        margin-left: 0px;
+   }
+
+   #box103 {
+        width: auto;
+        clear: none;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 0px;
+        padding-right: 15px;
+   }
+
+   #box104 {
+        clear: none;
+   }
+
+   #box105 {
+        width: 60px;
+        clear: both;
+        margin-left: 0px;
+        margin-right: 0px;
+        float: right;
+        margin-top: 6px;
+        display: block;
+        height: 25px;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+        border-bottom-left-radius: 4px;
+        background-color: rgb(66, 139, 202);
+   }
+
+   #text92 {
+        float: left;
+        font-size: 1em;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        font-weight: normal;
+        line-height: 1em;
+        word-wrap: break-word;
+        margin: 5px 0px 0px;
+        clear: none;
+        min-height: 0px;
+        color: rgb(255, 255, 255);
+   }
+
+   #Box1 {
+        padding: 0px 15px 0px 0px;
+        width: auto;
+        margin: 0px;
+        float: right;
+        clear: both;
+        background-color: rgb(239, 235, 232);
+   }
+
+   #box48 {
+        padding: 15px 0px 15px 15px;
+   }
+
+   #Box2 {
+        padding: 15px 0px 15px 15px;
+   }
+
+   #Box3 {
+        padding: 15px 0px 15px 15px;
+   }
+
+   #image23 {
+        padding: 0px;
    }
 
    #slideshow {
         width: 100%;
    }
 
-   #box22 {
-        width: 79.999107%;
-        margin-top: 0px;
-        margin-left: 0.015625px;
-        clear: none;
+   #Imageholder {
+        overflow: hidden;
+        height: auto;
+   }
+
+   #image11 {
+        margin: 0px 8px 0px 0px;
+   }
+
+   #textholder {
+        top: 10%;
+        bottom: auto;
+   }
+}
+
+@media only screen and (min-width: 1230px) {
+   #Navbar {
+        width: 100%;
    }
 
    #box25 {
@@ -6327,11 +6317,6 @@ body {
         clear: both;
    }
 
-   #Imageholder {
-        height: auto;
-        max-height: 480px;
-   }
-
    #box2 {
         margin: 0px 15px 0px 0px;
         clear: none;
@@ -6345,10 +6330,6 @@ body {
    #box4 {
         margin: 0px 15px 0px 0px;
         clear: none;
-   }
-
-   #image11 {
-        margin-right: 8px;
    }
 
    #box6 {
@@ -6385,19 +6366,73 @@ body {
         width: 33.3%;
    }
 
-   #Box1 {
-        width: auto;
-   }
-
-   #box48 {
-        display: block;
-   }
-
    #box47 {
         width: 79.999107%;
         margin-right: 0%;
         margin-top: -128.96875px;
         clear: both;
+   }
+
+   #box39 {
+        background-color: rgb(66, 139, 202);
+   }
+
+   #box46 {
+        background-color: rgb(66, 139, 202);
+   }
+
+   #text32 {
+        float: left;
+        font-size: 1em;
+        width: auto;
+        height: auto;
+        text-align: left;
+        font-weight: normal;
+        line-height: 18px;
+        word-wrap: break-word;
+        margin: 0px 0px 8px;
+        clear: both;
+        min-height: 0px;
+        color: rgba(0, 0, 0, 0.85098);
+   }
+
+   #text14 {
+        width: 100%;
+   }
+
+   #text15 {
+        width: 100%;
+   }
+
+   #text16 {
+        width: 100%;
+   }
+
+   #text17 {
+        width: 100%;
+   }
+
+   #box20 {
+        width: 100%;
+   }
+
+   #text28 {
+        width: 100%;
+   }
+
+   #text29 {
+        width: 100%;
+   }
+
+   #text30 {
+        width: 100%;
+   }
+
+   #box22 {
+        width: 79.999107%;
+        margin-top: 0px;
+        margin-left: 0.015625px;
+        clear: none;
    }
 
    #box49 {
@@ -6459,59 +6494,25 @@ body {
         clear: none;
    }
 
-   #box39 {
-        background-color: rgb(66, 139, 202);
-   }
-
-   #box46 {
-        background-color: rgb(66, 139, 202);
-   }
-
-   #text32 {
-        float: left;
-        font-size: 1em;
+   #Box1 {
         width: auto;
+   }
+
+   #box48 {
+        display: block;
+   }
+
+   #slideshow {
+        width: 100%;
+   }
+
+   #Imageholder {
         height: auto;
-        text-align: left;
-        font-weight: normal;
-        line-height: 18px;
-        word-wrap: break-word;
-        margin: 0px 0px 8px;
-        clear: both;
-        min-height: 0px;
-        color: rgba(0, 0, 0, 0.85098);
+        max-height: 480px;
    }
 
-   #text14 {
-        width: 100%;
-   }
-
-   #text15 {
-        width: 100%;
-   }
-
-   #text16 {
-        width: 100%;
-   }
-
-   #text17 {
-        width: 100%;
-   }
-
-   #box20 {
-        width: 100%;
-   }
-
-   #text28 {
-        width: 100%;
-   }
-
-   #text29 {
-        width: 100%;
-   }
-
-   #text30 {
-        width: 100%;
+   #image11 {
+        margin-right: 8px;
    }
 }
 
@@ -6680,24 +6681,8 @@ body {
         width: 25.664063%;
    }
 
-   #box49 {
-        padding-right: 0px;
-        margin-right: 0px;
-        margin-top: 9.828125px;
-        clear: right;
-        width: 80%;
-   }
-
    #Navbar {
         width: 100%;
-   }
-
-   #slideshow {
-        width: 100%;
-   }
-
-   #box22 {
-        width: 79.998884%;
    }
 
    #box106 {
@@ -6709,10 +6694,26 @@ body {
         clear: both;
    }
 
+   #box22 {
+        width: 79.998884%;
+   }
+
    #box24 {
         margin-top: 15px;
         margin-left: 0px;
         clear: both;
+   }
+
+   #box49 {
+        padding-right: 0px;
+        margin-right: 0px;
+        margin-top: 9.828125px;
+        clear: right;
+        width: 80%;
+   }
+
+   #slideshow {
+        width: 100%;
    }
 }
 

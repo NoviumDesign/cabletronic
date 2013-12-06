@@ -1,0 +1,136 @@
+/* General header settings */
+header
+  width: 100%
+  position: fixed
+  top: 0
+  -webkit-font-smoothing: antialiased
+  .logo
+    margin: 15px auto
+  nav
+    background: #BC151B
+    .caret
+      border-top-color: white
+    a,
+    a:hover,
+    a:active,
+    a:visited
+      color: #FFFFFF
+      display: block
+      
+    .mobile-nav,
+    .right-menu
+      a,
+      a:hover,
+      a:active,
+      a:visited
+        height: 45px
+        @include clearfix()
+        span.glyphicon,
+        .icon-bar
+          @include center()
+          width: 22px!important
+          font-size: 22px
+          padding-top: 11px
+          display: block
+          @include at-breakpoint($break-tablet)
+            float: left
+            margin: 0 10px 0 0
+        span.text
+          padding-top: 13px
+          display: none
+          float: left
+          @include at-breakpoint($break-tablet)
+            display: block
+        .icon-bar span
+          display: block
+          width: 22px
+          height: 3px
+          border-radius: 1px
+          background-color: #FFF
+          margin-top: 4px
+      li
+        display: block
+        width: 20%
+        float: left
+        @include at-breakpoint($break-tablet)
+          width: auto!important
+          margin-right: 25px
+    #locate
+      @include at-breakpoint($break-tablet)
+        display: none
+
+    ul.mobile-nav
+      width: 60%
+      @include at-breakpoint($break-desktop)
+        display: none
+      li
+        width: 33.33333%
+    ul.right-menu
+      width: 40%
+      @include clearfix()
+      li
+        width: 50%
+      @include at-breakpoint($break-tablet)
+        float: right
+        width: auto
+    ul#main-menu
+      position: fixed
+      top: 0
+      width: 260px
+      left: -260px
+      right: auto
+      height: 100%
+      background: #333
+      transition: left .3s
+      color: #FFF
+      box-shadow: inset 0 0 5px 5px #222
+
+      ul
+        width: 100%
+
+      li
+        width: 100%
+      a
+        padding: 10px
+        width: 100%
+        border-top: 1px solid #4D4D4D
+        border-bottom: 1px solid #1A1A1A
+      @include at-breakpoint($break-desktop)
+        a
+          padding-top: 12px
+    .mobile-nav-open
+      left: 0!important
+    ul
+      float: left
+      margin: 0
+      padding: 0
+      display: block
+
+  .dropdown .dropmenu
+    display: none
+    @include clearfix()
+    @include at-breakpoint($break-desktop)
+      width: 100%
+      height: 300px
+      background: #BC151B
+      position: fixed
+      display: none
+      top: 45px
+      left: 0
+      z-index: 9999
+
+  .dropdown.active > a,
+  .dropdown.active a:hover
+    background: #1F1F1F   
+
+  .dropdown.active .dropmenu
+    display: block
+    a
+      padding-left: 25px!important
+
+.off-canvas-left
+  position: absolute
+  left: 260px
+
+body
+  transition: all .3s

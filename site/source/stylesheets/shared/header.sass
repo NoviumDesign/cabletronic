@@ -1,0 +1,133 @@
+/* General header settings */
+header
+  width: 100%
+  position: fixed
+  top: 0
+  -webkit-font-smoothing: antialiased
+  a,
+  a:hover,
+  a:active,
+  a:visited
+    color: #FFFFFF
+    display: block
+    @include clearfix()
+
+  .caret
+    border-top-color: white
+
+  /* Reset ul-behavior for navbar*/
+  ul
+    margin: 0
+    padding: 0
+
+  nav
+    background: #BC151B
+
+  #main-menu
+    display: none
+    top: 0
+    left: -260px
+    width: 260px
+    background: #2B2A2A
+    height: 100%
+    overflow-y: auto
+    a
+      width: 100%
+      padding: 10px
+      border-top: 1px solid #4D4D4D
+      border-bottom: 1px solid #1A1A1A
+      background: #333
+    /* Child ul to mainmenu ul */
+    
+    ul.dropitem
+      padding-left: 10px
+
+  #main-menu.mobile-nav-open
+    display: block
+    position: fixed
+    z-index: 9999
+    left: 0
+
+
+/* Responsive helpers */
+
+body.off-canvas-left
+  position: absolute
+  top: 0
+  left: 260px
+
+body.off-canvas-right
+  position: absolute
+  top: 0
+  left: -260px
+
+.off-canvas-li
+  position: absolute
+  left: -130px
+
+.dropitem
+  display: none
+
+.dropitem.open
+  display: block
+
+.dropdown.active,
+  background: #1F1F1F!important
+
+/* CART */
+#cart
+  display: none
+  top: 0
+  right: -260px
+  width: 260px
+  background: #f8f8f8
+  color: #333333
+  height: 100%
+  box-shadow: inset 0 0 5px 5px #ebebeb
+  overflow-y: auto
+  li
+    border-top: 1px solid white
+    border-bottom: 1px solid #dfdfdf
+    float: left
+    display: block
+    width: 100%
+    height: 80px
+    position: relative
+  a,
+  a:hover,
+  a:active,
+  a:visited
+    color: #000000
+  .head
+    background: #333
+    padding: 10px
+    background-image: linear-gradient(#ffffff, #dfdfdf)
+    box-shadow: 0 5px 5px 3px rgba(0, 0, 0, 0.2)
+    font-weight: bold
+    height: auto
+  .image
+    width: 78px
+    height: 78px
+    float: left
+  .productname
+    width: 162px
+    float: left
+    padding: 10px
+    font-size: 13px
+  .price-amount
+    width: 150px
+    height: 78px
+    position: absolute
+    left: 110px
+    display: none
+    background: red
+  .amount-toogle
+#cart.cart-nav-open
+  display: block
+  position: fixed
+  z-index: 9999
+  right: 0
+
+/* helpers */
+.active
+  display: block!important
