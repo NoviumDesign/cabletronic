@@ -1,0 +1,37 @@
+#wrapper
+  position: relative
+  width: 100%
+
+body.off-canvas-left
+  overflow: hidden!important
+  #wrapper
+    position: relative
+    top: 0
+    right: -260px
+
+body.off-canvas-right
+  overflow: hidden!important
+  #wrapper
+    position: relative
+    top: 0
+    left: -260px
+
+.off-canvas-li
+  position: absolute
+  left: -150px
+
+.dropitem
+  display: none
+
+.dropitem.open
+  display: block
+
+.dropdown.active,
+  background: #1F1F1F!important
+
+.active
+  display: block!important
+
+#locate
+  @include at-breakpoint($break-tablet)
+    display: none

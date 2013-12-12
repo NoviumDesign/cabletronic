@@ -1,0 +1,83 @@
+nav
+  background: $cabletronic-red
+  width: 100%
+  z-index: 9999
+
+  .mobile-nav li,
+  .right-menu li
+    padding-top: 10px
+    padding-bottom: 10px
+    span.glyphicon
+      font-size: 22px
+      @include at-breakpoint($break-tablet)
+        float: left
+
+  .text
+    float: left
+    display: none
+    @include at-breakpoint($break-tablet)
+      display: block
+
+  .mobile-nav
+    width: 60%
+    float: left
+    li
+      width: 100/3 * 1%
+      float: left
+      text-align: center
+    a
+      width: 100%
+    @include at-breakpoint($break-desktop)
+      display: none
+
+  .menu-icon
+    width: 22px
+    margin-top: 5px
+    margin-left: auto
+    margin-right: auto
+    @include at-breakpoint($break-tablet)
+      margin: 0
+      float: left
+    span
+      display: block
+      height: 3px
+      border-radius: 1px
+      background-color: #FFF
+      margin-top: 4px
+
+  .right-menu
+    width: 40%
+    float: left
+    li
+      width: 50%
+      float: left
+      text-align: center
+    a
+      width: 100%
+
+  #main-menu
+    display: none
+    top: 0
+    left: -260px
+    width: 260px
+    background: #2B2A2A
+    height: 100%
+    overflow-y: auto
+    a
+      width: 100%
+      padding: 10px
+      border-top: 1px solid #4D4D4D
+      border-bottom: 1px solid #1A1A1A
+      background: #333
+    ul.dropitem
+      padding-left: 10px
+
+  #main-menu.mobile-nav-open
+    display: block
+    position: fixed
+    z-index: 9999
+    left: 0
+
+nav.fixed-nav
+  position: fixed
+  top: 0

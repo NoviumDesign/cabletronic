@@ -4,7 +4,8 @@
 
 /* AUTHOR CODE */
 
-
+/* Android touch fix */
+$('body').hammer().on("dragleft dragright", function(ev){ ev.gesture.preventDefault(); })
 
 /* Change SVG to PNG in low IE versions */
 if(!Modernizr.svg) {
@@ -34,10 +35,10 @@ $( "#cart-link" ).click(function() {
 });
 
 /* Toggle visibility of right off canvas element */
-$('html').swipeRight(function () {
+$('html').hammer().on("swiperight", function() {
   if ($("body").hasClass("off-canvas-right")) { // Cart visible - hide it.
-    $("#cart").removeClass("cart-nav-open");
-    $("body").removeClass("off-canvas-right");
+      $("#cart").removeClass("cart-nav-open");
+      $("body").removeClass("off-canvas-right");
   }
   else { // Cart not visible - show menu.
     $('#main-menu').addClass("mobile-nav-open");
@@ -46,7 +47,7 @@ $('html').swipeRight(function () {
 });
 
 /* Toggle visibility of left off canvas element */
-$('html').swipeLeft(function () {
+$('html').hammer().on("swipeleft", function() {
   if ($("body").hasClass("off-canvas-left")) { // Menu visible - hide it.
     $("#main-menu").removeClass("mobile-nav-open");
     $("body").removeClass("off-canvas-left");
@@ -62,12 +63,32 @@ $('html').swipeLeft(function () {
 //   $(this).next(".price-amount").toggleClass("active")
 // });
 
-$('.amount-toggle').swipeLeft(function () {
-  $(this).next(".price-amount").addClass("active")
+$('.amount-toggle').hammer().on("swipeleft", function() {
+  $(this).next(".extra-settings").addClass("active")
   $(this).addClass("off-canvas-li")
 });
 
-$('.amount-toggle').swipeRight(function () {
-  $(this).next(".price-amount").removeClass("active")
+$('.amount-toggle').hammer().on("swiperight", function() {
+  $(this).next(".extra-settings").removeClass("active")
   $(this).removeClass("off-canvas-li")
+});
+
+/* Select all text in fields on focus */
+$('input').selectionStart = 0;
+$('input').selectionEnd = 999;
+
+
+/* Fix nav on scroll */ 
+$("document").ready(function ($) {
+
+    var nav = $('nav');
+    var scrollamount = 80;
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > scrollamount) {
+            nav.addClass("fixed-nav");
+        } else {
+            nav.removeClass("fixed-nav");
+        }
+    });
 });
