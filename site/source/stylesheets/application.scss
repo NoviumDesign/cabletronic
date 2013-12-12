@@ -4,10 +4,12 @@
 @import "vendor/susy.scss";
 @import "grid/gridsettings.sass";
 @import "lib/common.scss";
-/* Element styles */
+/* Shared */
 @import "shared/layout.sass";
 @import "shared/header-helpers.sass";
 @import "shared/header.sass";
 @import "shared/navbar.sass";
 @import "shared/cart.sass";
+@import "shared/footer.sass";
+/* Element styles */
 @import "views/front.sass";

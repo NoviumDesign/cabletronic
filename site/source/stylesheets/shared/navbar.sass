@@ -3,21 +3,29 @@ nav
   width: 100%
   z-index: 9999
 
+  .navbar-inner
+    position: relative
+  /* Define settigns for li-elements in nav */
   .mobile-nav li,
   .right-menu li
     padding-top: 10px
     padding-bottom: 10px
+    height: 46px
+    @include at-breakpoint($break-tablet)
+      width: auto!important
+      margin-right: 20px
     span.glyphicon
       font-size: 22px
       @include at-breakpoint($break-tablet)
         float: left
-
+        margin-right: $icon-margin
+  /* When we show text next to icons, this is how it looks */
   .text
     float: left
     display: none
     @include at-breakpoint($break-tablet)
       display: block
-
+  /* At small screensizes we have a alternative navbar, we hide it later */
   .mobile-nav
     width: 60%
     float: left
@@ -29,7 +37,7 @@ nav
       width: 100%
     @include at-breakpoint($break-desktop)
       display: none
-
+  /* The special menu icon, made of 3 span elements  */
   .menu-icon
     width: 22px
     margin-top: 5px
@@ -38,23 +46,27 @@ nav
     @include at-breakpoint($break-tablet)
       margin: 0
       float: left
+      margin-right: $icon-margin
     span
       display: block
       height: 3px
       border-radius: 1px
       background-color: #FFF
       margin-top: 4px
-
+  /* The right menu with cart and account is something we always keep */
   .right-menu
     width: 40%
     float: left
+    @include at-breakpoint($break-tablet)
+      float: right
+      width: auto
     li
       width: 50%
       float: left
       text-align: center
     a
       width: 100%
-
+  /* The main menu change a lot depending at screen size*/
   #main-menu
     display: none
     top: 0
@@ -63,14 +75,36 @@ nav
     background: #2B2A2A
     height: 100%
     overflow-y: auto
+    @include at-breakpoint($break-desktop)
+      display: block
+      width: auto
+      float: left
+      background: none
+    li
+      @include at-breakpoint($break-desktop)
+        float: left
     a
       width: 100%
       padding: 10px
       border-top: 1px solid #4D4D4D
       border-bottom: 1px solid #1A1A1A
       background: #333
+      @include at-breakpoint($break-desktop)
+        background: none
+        border: 0
     ul.dropitem
       padding-left: 10px
+      @include clearfix()
+      @include at-breakpoint($break-desktop)
+        width: 100%
+        padding-left: 0
+        max-width: 1440px
+        @include center()
+
+      li
+        @include at-breakpoint($break-desktop)
+          @include span-columns(2,12)
+          @include nth-omega(6n)
 
   #main-menu.mobile-nav-open
     display: block
@@ -81,3 +115,13 @@ nav
 nav.fixed-nav
   position: fixed
   top: 0
+
+.megamenu
+  @include at-breakpoint($break-desktop)
+    float: left
+    position: absolute
+    top: 46px
+    left: 0
+    z-index: 9999
+    background: $cabletronic-red
+    width: 100%

@@ -23,11 +23,14 @@ body.off-canvas-right
 .dropitem
   display: none
 
-.dropitem.open
+.dropitem.open,
+.megamenu.open > .dropitem
   display: block
 
 .dropdown.active,
   background: #1F1F1F!important
+  @include at-breakpoint($break-tablet)
+    background: none!important
 
 .active
   display: block!important

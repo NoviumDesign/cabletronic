@@ -18,7 +18,7 @@ if(!Modernizr.svg) {
 $(document).ready(function () {
   $(".dropdown").click(function () {
     $(this).toggleClass("active")
-    $(this).next(".dropitem").toggleClass("open")
+    $(this).nextUntil("li").toggleClass("open")
   })
 })
 
