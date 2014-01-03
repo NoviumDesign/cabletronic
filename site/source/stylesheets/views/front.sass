@@ -1,12 +1,72 @@
 .slideshow
   position: relative
-  max-width: 1440px
+  max-width: 1420px
   color: #FFFFFF
   -webkit-font-smoothing: antialiased
   margin-left: auto
   margin-right: auto
+  margin-bottom: 20px
   .caption
     background: $cabletronic-red
-    padding: 10px 0
+    padding: 10px
     p
       color: rgba(255, 255, 255, 0.9)
+    @include at-breakpoint($tablet)
+      position: absolute
+      top: 30px
+      left: 30px
+      width: 400px
+.week-campaign
+  @include clearfix()
+  .image
+    @include span-columns(5,12)
+  .desc
+    @include span-columns(7 omega,12)
+
+.product-list
+  @include clearfix()
+  .product
+    margin-bottom: 10px
+    @include clearfix()
+    @include at-breakpoint($desktop)
+      width: 33.33333%
+      float: left
+      border: 1px dashed #A5A5A5
+      padding: 20px
+      &:nth-child(2)
+        border-left: none
+        border-right: none
+
+  .glyphicon-ok
+    color: green
+  .image
+    @include span-columns(4,12)
+    @include at-breakpoint($desktop)
+      width: 100%
+    img
+      @include at-breakpoint($desktop)
+        width: 70%
+        display: block
+        margin: 0 auto
+
+  .desc
+    @include span-columns(8 omega,12)
+    @include at-breakpoint($desktop)
+      width: 100%
+    .pricearea
+      float: left
+    a.btn
+      display: none
+      float: right
+      @include at-breakpoint($desktop)
+        display: block
+    .original
+      text-decoration: line-through
+    .price
+      font-weight: bold
+  ul
+    display: none
+    list-style: none
+    padding: 0
+    @include at-breakpoint($tablet)
+      display: block

@@ -22,6 +22,17 @@ body.off-canvas-right
 
 .dropitem
   display: none
+  @include at-breakpoint($desktop)
+    display: block
+
+.megamenu
+  display: none
+  .caret
+    @include at-breakpoint($desktop)
+      display: none
+
+.open
+  display: block
 
 .dropitem.open,
 .megamenu.open > .dropitem
@@ -29,12 +40,12 @@ body.off-canvas-right
 
 .dropdown.active,
   background: #1F1F1F!important
-  @include at-breakpoint($break-tablet)
+  @include at-breakpoint($tablet)
     background: none!important
 
 .active
   display: block!important
 
 #locate
-  @include at-breakpoint($break-tablet)
+  @include at-breakpoint($tablet)
     display: none

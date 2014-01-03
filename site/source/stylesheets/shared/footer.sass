@@ -1,3 +1,32 @@
 footer
   background: $cabletronic-red
   color: #FFFFFF
+  -webkit-font-smoothing: antialiased
+  margin-top: 40px
+  padding: 20px 0
+  ul
+    list-style: none
+    padding: 0
+    @include at-breakpoint($tablet)
+      @include span-columns(2,8)
+      @include nth-omega(4n)
+    span
+      display: block
+  .legal
+    width: 100%
+    float: left
+    font-size: 14px
+    @include at-breakpoint($tablet)
+      text-align: right
+    .logo
+      margin: 10px 0
+      img
+        width: 180px
+    .copy
+      @include clearfix()
+    span
+      display: block
+      @include at-breakpoint($tablet)
+        display: inline
+        margin-right: 20px
+        @include nth-omega(3n)

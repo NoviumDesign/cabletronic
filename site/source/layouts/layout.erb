@@ -74,7 +74,11 @@
     <![endif]-->
     <div id="wrapper">
       <header>
-        <img src="img/logo.svg" class="logo">
+        <div class="container">
+          <div class="logo">
+            <img src="img/logo.svg">
+          </div>
+        </div>
         <%= partial "includes/navbar.erb" %>
       </header>
       <%= yield %>

@@ -1,4 +1,4 @@
-$show-grid-backgrounds: true
+$show-grid-backgrounds: false
 @include border-box-sizing
 
 // For full Susy documentation, visit: http://susy.oddbird.net/tutorial/
@@ -18,9 +18,9 @@ $container-style: fluid
   overflow: auto
 
 // Define breakpoints, in this case when there's room fora the specified columns.
-$break-tablet: 768px 8
-$break-desktop: 1000px 12
-$break-huge:    24
+$tablet: 768px 8
+$desktop: 1000px 12
+$huge: 1200px 24
 
 .container
   // Include `container` if this element will contain a grid system.
@@ -31,7 +31,7 @@ $break-huge:    24
 
 // Automatically reset the grid width & re-apply the grid background
 // to responsive layouts.
-$layouts: $break-tablet, $break-desktop, $break-huge
+$layouts: $tablet, $desktop, $huge
 @each $layout in $layouts
   @include at-breakpoint($layout)
     .container

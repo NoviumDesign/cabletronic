@@ -21,11 +21,17 @@ header
     border-top-color: white
 
   .logo
-    display: block
-    margin-left: auto
-    margin-right: auto
     margin-top: 10px
     margin-bottom: 10px
+    img
+      display: block
+      margin-left: auto
+      margin-right: auto
+      @include at-breakpoint($desktop)
+        margin: 0
+  .right
+    .contact
+    .search
 
   /* Reset ul-behavior for navbar*/
   ul

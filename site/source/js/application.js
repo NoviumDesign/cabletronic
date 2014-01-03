@@ -4,6 +4,10 @@
 
 /* AUTHOR CODE */
 
+$("a.dropdown").click(function( event ) {
+  event.preventDefault();
+});
+
 /* Android touch fix */
 $('body').hammer().on("dragleft dragright", function(ev){ ev.gesture.preventDefault(); })
 
@@ -92,3 +96,18 @@ $("document").ready(function ($) {
         }
     });
 });
+
+/* Fix tee on scroll */ 
+// $("document").ready(function ($) {
+
+//     var tree = $('#tree');
+//     var scrollamountTree = 600;
+
+//     $(window).scroll(function () {
+//         if ($(this).scrollTop() > scrollamountTree) {
+//             tree.addClass("fixed-tree");
+//         } else {
+//             tree.removeClass("fixed-tree");
+//         }
+//     });
+// });

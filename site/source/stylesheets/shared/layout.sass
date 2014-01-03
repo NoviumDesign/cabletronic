@@ -13,3 +13,9 @@ img
   height: 100%
   z-index: 9999
   background: red
+
+.main
+  @include at-breakpoint($desktop)
+    @include span-columns(9 omega,12)
+    @include at-breakpoint($huge)
+      @include span-columns(19 omega,24)

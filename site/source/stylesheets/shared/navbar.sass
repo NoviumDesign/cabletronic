@@ -11,19 +11,19 @@ nav
     padding-top: 10px
     padding-bottom: 10px
     height: 46px
-    @include at-breakpoint($break-tablet)
+    @include at-breakpoint($tablet)
       width: auto!important
       margin-right: 20px
     span.glyphicon
       font-size: 22px
-      @include at-breakpoint($break-tablet)
+      @include at-breakpoint($tablet)
         float: left
         margin-right: $icon-margin
   /* When we show text next to icons, this is how it looks */
   .text
     float: left
     display: none
-    @include at-breakpoint($break-tablet)
+    @include at-breakpoint($tablet)
       display: block
   /* At small screensizes we have a alternative navbar, we hide it later */
   .mobile-nav
@@ -35,7 +35,7 @@ nav
       text-align: center
     a
       width: 100%
-    @include at-breakpoint($break-desktop)
+    @include at-breakpoint($desktop)
       display: none
   /* The special menu icon, made of 3 span elements  */
   .menu-icon
@@ -43,7 +43,7 @@ nav
     margin-top: 5px
     margin-left: auto
     margin-right: auto
-    @include at-breakpoint($break-tablet)
+    @include at-breakpoint($tablet)
       margin: 0
       float: left
       margin-right: $icon-margin
@@ -57,7 +57,7 @@ nav
   .right-menu
     width: 40%
     float: left
-    @include at-breakpoint($break-tablet)
+    @include at-breakpoint($tablet)
       float: right
       width: auto
     li
@@ -75,13 +75,13 @@ nav
     background: #2B2A2A
     height: 100%
     overflow-y: auto
-    @include at-breakpoint($break-desktop)
+    @include at-breakpoint($desktop)
       display: block
       width: auto
       float: left
       background: none
     li
-      @include at-breakpoint($break-desktop)
+      @include at-breakpoint($desktop)
         float: left
     a
       width: 100%
@@ -89,23 +89,39 @@ nav
       border-top: 1px solid #4D4D4D
       border-bottom: 1px solid #1A1A1A
       background: #333
-      @include at-breakpoint($break-desktop)
+      &:hover
+        text-decoration: none
+      @include at-breakpoint($desktop)
         background: none
         border: 0
     ul.dropitem
       padding-left: 10px
       @include clearfix()
-      @include at-breakpoint($break-desktop)
-        width: 100%
-        padding-left: 0
+      @include at-breakpoint($desktop)
+        padding: 0
+        a
+          padding: 0
+          &:hover
+            text-decoration: underline
+    ul.level0
+      @include at-breakpoint($desktop)
+        @include container()
         max-width: 1440px
-        @include center()
-
-      li
-        @include at-breakpoint($break-desktop)
-          @include span-columns(2,12)
-          @include nth-omega(6n)
-
+      li.level1
+        @include at-breakpoint($desktop)
+          @include span-columns(2,10)
+          @include nth-omega(5n)
+          > a
+            font-family: "Roboto Slab", "helvetica neue", helvetica, arial, serif
+            font-weight: bold
+            font-size: 18px
+            margin: 8px 0
+        
+    ul.level1 li
+      width: 100%
+    ul.level2
+      @include at-breakpoint($desktop)
+        display: none
   #main-menu.mobile-nav-open
     display: block
     position: fixed
@@ -117,7 +133,7 @@ nav.fixed-nav
   top: 0
 
 .megamenu
-  @include at-breakpoint($break-desktop)
+  @include at-breakpoint($desktop)
     float: left
     position: absolute
     top: 46px
@@ -125,3 +141,5 @@ nav.fixed-nav
     z-index: 9999
     background: $cabletronic-red
     width: 100%
+    padding-bottom: 20px
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3)
