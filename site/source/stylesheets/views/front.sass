@@ -70,3 +70,18 @@
     padding: 0
     @include at-breakpoint($tablet)
       display: block
+
+.calloutbox
+  margin: 20px 0
+  width: 100%
+  @include clearfix()
+  @include at-breakpoint($tablet)
+    background: #EFEBE8
+    padding: 10px 5px 10px 5px
+  .box
+    text-align: center
+    @include clearfix()
+    @include at-breakpoint($tablet)
+      width: 33.3333%
+      padding: 0 5px
+      float: left
