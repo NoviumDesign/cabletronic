@@ -39,42 +39,80 @@ $( "#cart-link" ).click(function() {
 });
 
 /* Toggle visibility of right off canvas element */
-$('html').hammer().on("swiperight", function() {
-  if ($("body").hasClass("off-canvas-right")) { // Cart visible - hide it.
-      $("#cart").removeClass("cart-nav-open");
-      $("body").removeClass("off-canvas-right");
+$('html').hammer().on("swiperight", function(event)
+{
+  var target, that, success;
+  target = $(event.target);
+
+  if (target.is('.amount-toggle') || target.parents('.amount-toggle').length)
+  {
+    // amount toggle
+    that = (target.is('.amount-toggle') ? target : target.parents('.amount-toggle'));
+
+    if (that.next('.extra-settings').is('.active'))
+    {
+      // nothing to do here...
+      that.next(".extra-settings").removeClass("active");
+      that.removeClass("off-canvas-li");
+
+      success = true;
+    }
+    else
+    {
+      success = false
+    }
   }
-  else { // Cart not visible - show menu.
-    $('#main-menu').addClass("mobile-nav-open");
-    $("body").addClass("off-canvas-left");
+
+  if ( ! success)
+  {
+    // default
+    if ($("body").hasClass("off-canvas-right"))
+    {
+      // Cart visible - hide it.
+        $("#cart").removeClass("cart-nav-open");
+        $("body").removeClass("off-canvas-right");
+    }
+    else
+    {
+      // Cart not visible - show menu.
+      $('#main-menu').addClass("mobile-nav-open");
+      $("body").addClass("off-canvas-left");
+    }
   }
 });
 
 /* Toggle visibility of left off canvas element */
-$('html').hammer().on("swipeleft", function() {
-  if ($("body").hasClass("off-canvas-left")) { // Menu visible - hide it.
-    $("#main-menu").removeClass("mobile-nav-open");
-    $("body").removeClass("off-canvas-left");
+$('html').hammer().on("swipeleft", function(event)
+{
+  var target, that;
+
+  target = $(event.target);
+
+  if (target.is('.amount-toggle') || target.parents('.amount-toggle').length)
+  {
+    // amount toggle
+    that = (target.is('.amount-toggle') ? target : target.parents('.amount-toggle'));
+
+    that.next(".extra-settings").addClass("active");
+    that.addClass("off-canvas-li");
+
   }
-  else { // Menu not visible - show cart.
-    $('#cart').addClass("cart-nav-open");
-    $("body").addClass("off-canvas-right");
+  else
+  {
+    // default
+    if ($("body").hasClass("off-canvas-left"))
+    {
+      // Menu visible - hide it.
+      $("#main-menu").removeClass("mobile-nav-open");
+      $("body").removeClass("off-canvas-left");
+    }
+    else
+    {
+      // Menu not visible - show cart.
+      $('#cart').addClass("cart-nav-open");
+      $("body").addClass("off-canvas-right");
+    }
   }
-});
-
-// /* Toggle visibility of product amount */
-// $( "#amount-toggle" ).click(function() {
-//   $(this).next(".price-amount").toggleClass("active")
-// });
-
-$('.amount-toggle').hammer().on("swipeleft", function() {
-  $(this).next(".extra-settings").addClass("active")
-  $(this).addClass("off-canvas-li")
-});
-
-$('.amount-toggle').hammer().on("swiperight", function() {
-  $(this).next(".extra-settings").removeClass("active")
-  $(this).removeClass("off-canvas-li")
 });
 
 /* Select all text in fields on focus */
