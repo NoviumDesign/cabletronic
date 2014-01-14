@@ -8,6 +8,10 @@ $("a.dropdown").click(function( event ) {
   event.preventDefault();
 });
 
+$("li#search a").click(function( event ) {
+  event.preventDefault();
+});
+
 /* Android touch fix */
 $('body').hammer().on("dragleft dragright", function(ev){ ev.gesture.preventDefault(); })
 
@@ -115,11 +119,6 @@ $('html').hammer().on("swipeleft", function(event)
   }
 });
 
-/* Select all text in fields on focus */
-$('input').selectionStart = 0;
-$('input').selectionEnd = 999;
-
-
 /* Fix nav on scroll */ 
 $("document").ready(function ($) {
 
@@ -135,6 +134,11 @@ $("document").ready(function ($) {
     });
 });
 
+// Toggle mobile search
+$("#search").click(function () {
+  $('#mobile-search').toggleClass("active");
+})
+
 /* Fix tee on scroll */ 
 // $("document").ready(function ($) {
 
@@ -149,3 +153,22 @@ $("document").ready(function ($) {
 //         }
 //     });
 // });
+
+$(document).ready(function() {
+    $("#content").find("[id^='tab']").hide(); // Hide all content
+    $("#tabs li:first").attr("id","current"); // Activate the first tab
+    $("#content #tab1").fadeIn(); // Show first tab's content
+    
+    $('#tabs a').click(function(e) {
+        e.preventDefault();
+        if ($(this).closest("li").attr("id") == "current"){ //detection for current tab
+         return;       
+        }
+        else{             
+          $("#content").find("[id^='tab']").hide(); // Hide all content
+          $("#tabs li").attr("id",""); //Reset id's
+          $(this).parent().attr("id","current"); // Activate this
+          $('#' + $(this).attr('name')).fadeIn(); // Show content for the current tab
+        }
+    });
+});

@@ -23,6 +23,8 @@ header
   .logo
     margin-top: 10px
     margin-bottom: 10px
+    @include at-breakpoint($desktop)
+      float: left
     img
       display: block
       margin-left: auto
@@ -30,8 +32,38 @@ header
       @include at-breakpoint($desktop)
         margin: 0
   .right
+    display: none
+    float: right
+    margin-top: 5px
+    @include at-breakpoint($desktop)
+      display: block
     .contact
+      margin-bottom: 3px
+      text-align: right
     .search
+      border: 1px solid #999999
+      input,
+      button
+        padding: 8px
+        border: none
+        background: none
+        font-size: inherit
+        outline: none
+      .search-input
+        width: 270px
+    .submit
+
+  #mobile-search
+    display: none
+    float: left
+    width: 100%
+    margin-bottom: 10px
+    .searchfield
+      width: 100%
+      border-radius: 0
+      border: none
+      outline: none
+      padding: 10px
 
   /* Reset ul-behavior for navbar*/
   ul

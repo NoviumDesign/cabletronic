@@ -15,7 +15,14 @@ img
   background: red
 
 .main
+  margin-top: 20px
   @include at-breakpoint($desktop)
     @include span-columns(9 omega,12)
     @include at-breakpoint($huge)
       @include span-columns(19 omega,24)
+
+.fullwidth
+  margin-top: 20px
+
+.breadcrumbs
+  margin-bottom: 10px

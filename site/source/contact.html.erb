@@ -1,0 +1,153 @@
+---
+title: Cabletronic
+---
+<div class="map" id="map-canvas"></div>
+<div class="container">
+  <div class="fullwidth">
+    <div class="details">
+      <h1>Cabletronic</h1>
+      <p>Varmt välkommen att kontakta oss.</p>
+      <h5>Adress</h5>
+        <ul>
+          <li>Cabletronic AB</li>
+          <li>Västberga Allé 32</li>
+          <li>12630 HÄGERSTEN</li>
+        </ul>
+      <h5>Kontaktuppgifter</h5>
+        <ul>
+          <li>Telefon: 08-447 43 50</li>
+          <li>Telefax: 08-744 24 48</li>
+          <li>E-post:  epost@cabletronic.se</li>
+        </ul>
+      <h5>Organisation</h5>
+        <ul>
+          <li>Org.nr. 556377-9627</li>
+          <li>Momsnr. SE556377962701</li>
+          <li>Bankgiro: 5402-4682</li>
+        </ul>
+      <h5>Öppettider</h5>
+        <ul>
+          <li>Måndag - Torsdag 08.00-17.00</li>
+          <li>Fredag 08.00-16.00</li>
+        </ul>
+      </div>
+    <div class="crew">
+
+      <div class="employee">
+        <img src="/img/crew/magnus2.jpg">
+        <div class="text">
+          <span><a href="#">Magnus Sundin</a></span>
+          <span>Försäljning & Marknadschef</span>
+          <span>08-447 43 53</span>
+          <span>0708-645 455</span>
+        </div>
+      </div>
+      <div class="employee">
+        <img src="/img/crew/magnus2.jpg">
+        <div class="text">
+          <span><a href="#">Magnus Sundin</a></span>
+          <span>Försäljning & Marknadschef</span>
+          <span>08-447 43 53</span>
+          <span>0708-645 455</span>
+        </div>
+      </div>
+      <div class="employee">
+        <img src="/img/crew/magnus2.jpg">
+        <div class="text">
+          <span><a href="#">Magnus Sundin</a></span>
+          <span>Försäljning & Marknadschef</span>
+          <span>08-447 43 53</span>
+          <span>0708-645 455</span>
+        </div>
+      </div>
+      <div class="employee">
+        <img src="/img/crew/magnus2.jpg">
+        <div class="text">
+          <span><a href="#">Magnus Sundin</a></span>
+          <span>Försäljning & Marknadschef</span>
+          <span>08-447 43 53</span>
+          <span>0708-645 455</span>
+        </div>
+      </div>
+      <div class="employee">
+        <img src="/img/crew/magnus2.jpg">
+        <div class="text">
+          <span><a href="#">Magnus Sundin</a></span>
+          <span>Försäljning & Marknadschef</span>
+          <span>08-447 43 53</span>
+          <span>0708-645 455</span>
+        </div>
+      </div>
+      <div class="employee">
+        <img src="/img/crew/magnus2.jpg">
+        <div class="text">
+          <span><a href="#">Magnus Sundin</a></span>
+          <span>Försäljning & Marknadschef</span>
+          <span>08-447 43 53</span>
+          <span>0708-645 455</span>
+        </div>
+      </div>
+      <div class="employee">
+        <img src="/img/crew/magnus2.jpg">
+        <div class="text">
+          <span><a href="#">Magnus Sundin</a></span>
+          <span>Försäljning & Marknadschef</span>
+          <span>08-447 43 53</span>
+          <span>0708-645 455</span>
+        </div>
+      </div>
+      <div class="employee">
+        <img src="/img/crew/magnus2.jpg">
+        <div class="text">
+          <span><a href="#">Magnus Sundin</a></span>
+          <span>Försäljning & Marknadschef</span>
+          <span>08-447 43 53</span>
+          <span>0708-645 455</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<script>
+  function initialize() {
+    var cabletronicLatlng = new google.maps.LatLng(59.294229,18.011331);
+    var mapOptions = {
+      zoom: 16,
+      center: cabletronicLatlng,
+      disableDefaultUI: true
+    }
+    var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+    var marker = new google.maps.Marker({
+        position: cabletronicLatlng,
+        map: map,
+        animation: google.maps.Animation.DROP,
+        title: 'Cabletronic',
+        icon: '/apple-touch-icon-72x72-precomposed.png'
+    });
+    google.maps.event.addListener(marker, 'click', toggleBounce);
+
+    google.maps.event.addListener(map, 'center_changed', function() {
+      // 3 seconds after the center of the map has changed, pan back to the
+      // marker.
+      window.setTimeout(function() {
+        map.panTo(marker.getPosition());
+      }, 1000);
+    });
+  }
+
+  function toggleBounce() {
+
+    if (marker.getAnimation() != null) {
+      marker.setAnimation(null);
+    } else {
+      marker.setAnimation(google.maps.Animation.BOUNCE);
+    }
+  }
+
+
+  google.maps.event.addDomListener(window, 'load', initialize);
+
+</script>

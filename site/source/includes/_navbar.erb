@@ -12,7 +12,7 @@
             <span class="text">Meny</span>
           </a>
         </li>
-        <li><a href="#"><span class="glyphicon glyphicon-search"></span><span class="text">Sök produkt</span></a></li>
+        <li id="search"><a href="#"><span class="glyphicon glyphicon-search"></span><span class="text">Sök produkt</span></a></li>
         <li id="locate"><a href="#"><span class="glyphicon glyphicon-screenshot"></span></a></li>
       </ul>
       <ul id="main-menu">
@@ -306,19 +306,182 @@
           <a href="#">Kundanpassning</span></a>
         </li>
         <li>
-          <a href="#">Kunskapsbanken <span class="caret"></span></a>
+          <a href="#" class="dropdown">Kunskapsbanken <span class="caret"></span></a>
+          <div class="megamenu">
+            <ul class="dropitem level0">
+              <li class="level1"><a href="#" class="dropdown">Bild & ljud <span class="caret"></span></a>
+                <ul class="dropitem level1">
+                  <li><a href="#">Kontaktering av kabel</a></li>
+                  <li><a href="#">Splitter</a></li>
+                  <li><a href="#">Switch</a></li>
+                  <li><a href="#">Konverter</a></li>
+                  <li><a href="#">Scaler</a></li>
+                  <li><a href="#">Matrix</a></li>
+                  <li><a href="#">KVM</a></li>
+                  <li><a href="#">Signalförstärkare</a></li>
+                  <li><a href="#">EDID</a></li>
+                </ul>
+              </li>
+              <li class="level1"><a href="#" class="dropdown">Kabel <span class="caret"></span></a>
+                <ul class="dropitem level1">
+                  <li>
+                    <a href="#">Kontaktering av kabel</a>
+                    <ul class="dropitem level2">
+                      <li><a href="#">Ljud (2)</a></li>
+                      <li><a href="#">3G-SDI (16)</a></li>
+                      <li><a href="#">DVI (22)</a></li>
+                      <li><a href="#">VGA (19)</a></li>                        
+                      <li><a href="#">HDMI (19)</a></li>
+                      <li><a href="#">DisplayPort (2)</a></li>
+                      <li><a href="#">FireWire (1)</a></li>
+                      <li><a href="#">RS232 (1)</a></li>
+                      <li><a href="#">USB (5)</a></li>
+                      <li><a href="#">Video (2)</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="#">Splitter</a></li>
+                  <li><a href="#">Switch</a></li>
+                  <li><a href="#">Konverter</a></li>
+                  <li><a href="#">Scaler</a></li>
+                  <li><a href="#">Matrix</a></li>
+                  <li><a href="#">KVM</a></li>
+                  <li><a href="#">Signalförstärkare</a></li>
+                  <li><a href="#">EDID</a></li>
+                </ul>
+              </li>
+              <li class="level1"><a href="#" class="dropdown">Kabelvindor<span class="caret"></span></a>
+                <ul class="dropitem level1">
+                  <li><a href="#">Kontaktering av kabel</a></li>
+                  <li><a href="#">Splitter</a></li>
+                  <li><a href="#">Switch</a></li>
+                  <li><a href="#">Konverter</a></li>
+                  <li><a href="#">Scaler</a></li>
+                  <li><a href="#">Matrix</a></li>
+                  <li><a href="#">KVM</a></li>
+                  <li><a href="#">Signalförstärkare</a></li>
+                  <li><a href="#">EDID</a></li>
+                </ul>
+              </li>
+              <li class="level1"><a href="#" class="dropdown">Kablage<span class="caret"></span></a>
+                <ul class="dropitem level1">
+                  <li><a href="#">Kontaktering av kabel</a></li>
+                  <li><a href="#">Splitter</a></li>
+                  <li><a href="#">Switch</a></li>
+                  <li><a href="#">Konverter</a></li>
+                  <li><a href="#">Scaler</a></li>
+                  <li><a href="#">Matrix</a></li>
+                  <li><a href="#">KVM</a></li>
+                  <li><a href="#">Signalförstärkare</a></li>
+                  <li><a href="#">EDID</a></li>
+                </ul>
+              </li>
+              <li class="level1"><a href="#" class="dropdown">Kontaktdon <span class="caret"></span></a>
+                <ul class="dropitem level1">
+                  <li><a href="#">Kontaktering av kabel</a></li>
+                  <li><a href="#">Splitter</a></li>
+                  <li><a href="#">Switch</a></li>
+                  <li><a href="#">Konverter</a></li>
+                  <li><a href="#">Scaler</a></li>
+                  <li><a href="#">Matrix</a></li>
+                  <li><a href="#">KVM</a></li>
+                  <li><a href="#">Signalförstärkare</a></li>
+                  <li><a href="#">EDID</a></li>
+                </ul>
+              </li>
+              <li class="level1"><a href="#" class="dropdown">Paneler & boxar <span class="caret"></span></a>
+                <ul class="dropitem level1">
+                  <li><a href="#">Kontaktering av kabel</a></li>
+                  <li><a href="#">Splitter</a></li>
+                  <li><a href="#">Switch</a></li>
+                  <li><a href="#">Konverter</a></li>
+                  <li><a href="#">Scaler</a></li>
+                  <li><a href="#">Matrix</a></li>
+                  <li><a href="#">KVM</a></li>
+                  <li><a href="#">Signalförstärkare</a></li>
+                  <li><a href="#">EDID</a></li>
+                </ul>
+              </li>
+              <li class="level1"><a href="#" class="dropdown">Tillbehör<span class="caret"></span></a>
+                <ul class="dropitem level1">
+                  <li><a href="#">Kontaktering av kabel</a></li>
+                  <li><a href="#">Splitter</a></li>
+                  <li><a href="#">Switch</a></li>
+                  <li><a href="#">Konverter</a></li>
+                  <li><a href="#">Scaler</a></li>
+                  <li><a href="#">Matrix</a></li>
+                  <li><a href="#">KVM</a></li>
+                  <li><a href="#">Signalförstärkare</a></li>
+                  <li><a href="#">EDID</a></li>
+                </ul>
+              </li>
+              <li class="level1"><a href="#" class="dropdown">Bild & ljud <span class="caret"></span></a>
+                <ul class="dropitem level1">
+                  <li><a href="#">Kontaktering av kabel</a></li>
+                  <li><a href="#">Splitter</a></li>
+                  <li><a href="#">Switch</a></li>
+                  <li><a href="#">Konverter</a></li>
+                  <li><a href="#">Scaler</a></li>
+                  <li><a href="#">Matrix</a></li>
+                  <li><a href="#">KVM</a></li>
+                  <li><a href="#">Signalförstärkare</a></li>
+                  <li><a href="#">EDID</a></li>
+                </ul>
+              </li>
+              <li class="level1"><a href="#" class="dropdown">Bild & ljud <span class="caret"></span></a>
+                <ul class="dropitem level1">
+                  <li><a href="#">Kontaktering av kabel</a></li>
+                  <li><a href="#">Splitter</a></li>
+                  <li><a href="#">Switch</a></li>
+                  <li><a href="#">Konverter</a></li>
+                  <li><a href="#">Scaler</a></li>
+                  <li><a href="#">Matrix</a></li>
+                  <li><a href="#">KVM</a></li>
+                  <li><a href="#">Signalförstärkare</a></li>
+                  <li><a href="#">EDID</a></li>
+                </ul>
+              </li>
+              <li class="level1"><a href="#" class="dropdown">Bild & ljud <span class="caret"></span></a>
+                <ul class="dropitem level1">
+                  <li><a href="#">Kontaktering av kabel</a></li>
+                  <li><a href="#">Splitter</a></li>
+                  <li><a href="#">Switch</a></li>
+                  <li><a href="#">Konverter</a></li>
+                  <li><a href="#">Scaler</a></li>
+                  <li><a href="#">Matrix</a></li>
+                  <li><a href="#">KVM</a></li>
+                  <li><a href="#">Signalförstärkare</a></li>
+                  <li><a href="#">EDID</a></li>
+                </ul>
+              </li>                                
+            </ul>
+          </div>
         </li>
         <li>
-          <a href="#">Kundtjänst <span class="caret"></span></a>
+          <a href="#" class="dropdown">Kundtjänst <span class="caret"></span></a>
+          <ul class="dropitem level0"> 
+            <li class="level1"><a href="#">Kontakta oss</a></li>
+            <li class="level1"><a href="#">Skapa supportärende</a></li>
+            <li class="level1"><a href="#">RMA-ansökan</a></li>
+            <li class="level1"><a href="#">ÅF-ansökan</a></li>
+          </ul>
         </li>
         <li>
-          <a href="#">Om oss <span class="caret"></span></a>
+          <a href="#" class="dropdown">Om oss <span class="caret"></span></a>
+          <ul class="dropitem level0"> 
+            <li class="level1"><a href="#">Kontakta oss</a></li>
+            <li class="level1"><a href="#">Skapa supportärende</a></li>
+            <li class="level1"><a href="#">RMA-ansökan</a></li>
+            <li class="level1"><a href="#">ÅF-ansökan</a></li>
+          </ul>
         </li>
       </ul>
       <ul class="right-menu">
         <li><a href="#"><span class="glyphicon glyphicon-user"></span><span class="text">Konto</span></a></li>
-        <li><a href="#" id="cart-link"><span class="glyphicon glyphicon-shopping-cart"></span><span class="text">Kundvagn</span></a></li>
+        <li><a href="#" id="cart-link"><span class="glyphicon glyphicon-shopping-cart"></span><span class="text">Kundvagn (3 artiklar)</span></a></li>
       </ul>
+      <div id="mobile-search">
+        <input type="text" class="searchfield" placeholder="Sök produkt eller artikelnummer">
+      </div>
       <div id="cart">
         <div class="head">I kundvagnen (7 produkter)</div>
         <ul class="cart-scroll">

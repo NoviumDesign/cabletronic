@@ -1,0 +1,33 @@
+.contact
+  .details
+    margin-bottom: 20px
+  ul
+    @include no-bullets()
+    padding: 0
+  .map
+    width: 100%
+    height: 200px
+    @include at-breakpoint($tablet)
+      height: 400px
+.employee
+  position: relative
+  margin-bottom: 20px
+  @include at-breakpoint($tablet)
+    @include span-columns(4,12)
+    @include nth-omega(3n)
+  @include at-breakpoint($desktop)
+    @include span-columns(3,12)
+    @include remove-nth-omega(3n)
+    @include nth-omega(4n)
+  a
+    text-decoration: underline
+  .text
+    position: absolute
+    bottom: 0
+    width: 100%
+    padding: 15px
+    background-color: #FFF
+    background: rgba(255, 255, 255, 0.9)
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)"
+    span
+      display: block

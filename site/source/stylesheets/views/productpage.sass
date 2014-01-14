@@ -1,0 +1,45 @@
+@import "compass/typography/lists/bullets"
+
+.product-page
+  .productimage
+    margin: 20px 0
+    @include at-breakpoint($tablet)
+      @include span-columns(4,12)
+  .pricearea
+    float: left
+    margin-bottom: 8px
+    span
+      display: block
+  .buyarea
+    @include clearfix()
+    width: 100%
+    .stock
+      width: 100%
+      margin-bottom: 5px
+    input
+      display: block
+      float: left
+      margin-right: 8px
+      width: 70px
+    span.glyphicon
+      color: #008000
+    a
+      display: block
+      float: left
+  .col1
+    width: 30%
+  .col2
+    width: 70%
+  .productarea
+    margin-bottom: 20px
+    @include clearfix()
+    .desc
+      display: none
+      @include at-breakpoint($tablet)
+        display: block
+      ul
+        @include no-bullet()
+        padding: 0
+
+  span.reseller
+    font-weight: bold
