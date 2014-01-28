@@ -6,6 +6,7 @@
     @include span-columns(3,12)
     @include at-breakpoint($huge)
       @include span-columns(5,24)
+      padding-right: 15px
   ul
     list-style: none
     padding: 0
@@ -16,6 +17,10 @@
     list-style: none
     background: $cabletronic-red
     margin-bottom: 1px
+
+  ul.level0,
+  ul.level1
+    display: none
 
   a
     color: #FFFFFF

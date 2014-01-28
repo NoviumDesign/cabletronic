@@ -1,8 +1,69 @@
 .product-list
+  .headline
+    display: none
+    @include at-breakpoint($desktop)
+      display: block
+    @include clearfix()
+    border-bottom: 1px solid
+    padding-bottom: 5px
+    .product
+      @include at-breakpoint($desktop)
+        @include span-columns(7,12)
+      @include at-breakpoint($huge)
+        @include span-columns(15,24)
+    .price
+      @include at-breakpoint($desktop)
+        @include span-columns(5 omega,12)
+      @include at-breakpoint($huge)
+        @include span-columns(9 omega,24)
   .productrow
+    position: relative
+    border-bottom: 1px solid
+    padding-bottom: 10px
+    padding-top: 10px
+    @include clearfix()
     .image
       @include span-columns(4,12)
-    .desc
-    .price
-    .buy
-
+      @include at-breakpoint($huge)
+        @include span-columns(5,24)
+    .right
+      margin-top: -2px
+      @include span-columns(8 omega,12)
+      @include at-breakpoint($huge)
+        @include span-columns(19 omega,24)
+      .desc
+        @include at-breakpoint($desktop)
+          @include span-columns(3,8)
+        @include at-breakpoint($huge)
+          @include span-columns(10,19)
+        ul
+          display: none
+          padding: 0
+          @include no-bullets()
+          @include at-breakpoint($tablet)
+            display: block
+      .pricearea
+        @include at-breakpoint($desktop)
+          @include span-columns(3,8)
+        @include at-breakpoint($huge)
+          @include span-columns(3,19)
+      .buy-area
+        display: none
+        @include at-breakpoint($desktop)
+          display: block
+          @include span-columns(2 omega,8)
+        @include at-breakpoint($huge)
+          @include span-columns(3 omega,19)
+        .glyphicon
+          float: left
+          margin-right: 5px
+          color: green
+        .btn
+          display: block
+          float: left
+          clear: left
+          margin-top: 5px
+      .stock
+        float: left
+      .price
+        font-weight: bold
