@@ -1,5 +1,5 @@
 footer
-  background: $cabletronic-red
+  background: #ACAAAA
   color: #FFFFFF
   -webkit-font-smoothing: antialiased
   margin-top: 40px
@@ -10,6 +10,9 @@ footer
     @include at-breakpoint($tablet)
       @include span-columns(2,8)
       @include nth-omega(4n)
+    @include at-breakpoint($huge)
+      @include span-columns(4,24)
+      @include remove-nth-omega(4n)
     span
       display: block
   .legal
@@ -30,3 +33,6 @@ footer
         display: inline
         margin-right: 20px
         @include nth-omega(3n)
+  h1
+    text-transform: uppercase
+    font-size: 1.2em

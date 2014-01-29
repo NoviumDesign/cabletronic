@@ -12,20 +12,36 @@
     padding: 0
     margin: 0
 
-  > ul li
-    padding: 5px 9px 5px 9px
-    list-style: none
-    background: $cabletronic-red
-    margin-bottom: 1px
+  li.level0 > a
+    padding: 6px
+  li.level1 a
+    padding-bottom: 3px
+    &.dropdown.active
+      font-weight: bold
+
+  li.level0
+    background-color: #CCCCCC
+    > a
+      font-weight: bold
+      &.dropdown.active
+        background-color: #999999!important
 
   ul.level0,
   ul.level1
     display: none
 
+  ul.level0
+    padding-left: 12px
+  ul.level1
+    padding-left: 6px
   a
-    color: #FFFFFF
     text-decoration: none
-
+    width: 100%
+    display: block
+  .open-status
+    float: right
+    color: #FFFFFF
+    display: inline-block
 .fixed-tree
   position: fixed
   top: 80px

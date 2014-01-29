@@ -19,19 +19,35 @@
     display: block
   .product
     position: relative
-    margin-bottom: 10px
+    padding-bottom: 13px
+    margin-bottom: 13px
+    border-bottom: 1px solid #AFAFAF
     @include clearfix()
     @include at-breakpoint($desktop)
       width: 33.33333%
       float: left
-      border: 1px dashed #A5A5A5
-      padding: 20px
+      border-top: 10px solid #D8D8D8
+      padding: 10px
       &:nth-child(2)
         border-left: none
+        border-right: none
+    .price
+      @include at-breakpoint($desktop)
+        font-size: 27px
+        margin-top: 5px
+        float: left
+    .inner
+      @include clearfix()
+      border-right: 1px solid #AFAFAF
+      padding: 10px
+      &:nth-child(2)
         border-right: none
 
   .glyphicon-ok
     color: green
+    margin-right: 2px
+    @include at-breakpoint($desktop)
+      margin-right: 0
   .image
     @include span-columns(4,12)
     @include at-breakpoint($desktop)
@@ -69,8 +85,6 @@
       font-weight: bold
   ul
     display: none
-    list-style: none
-    padding: 0
     @include at-breakpoint($tablet)
       display: block
   .arrow
@@ -91,7 +105,7 @@
     @include at-breakpoint($desktop)
       width: 50%
       float: left
-      border: 1px dashed #A5A5A5
+      border-top: 10px solid #D8D8D8
       padding: 20px
       &:nth-child(even)
         border-left: none
@@ -123,6 +137,10 @@
       text-decoration: line-through
     .price
       font-weight: bold
+      @include at-breakpoint($desktop)
+        font-size: 27px
+        margin-top: 5px
+        float: left
   ul
     display: none
     list-style: none
