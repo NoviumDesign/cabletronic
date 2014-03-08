@@ -56,7 +56,7 @@
       @include at-breakpoint($desktop)
         width: 70%
         display: block
-        margin: 0 auto
+        margin: 0 auto 15px auto
 
   .desc
     @include span-columns(8 omega,12)
@@ -68,7 +68,7 @@
       float: left
       @include at-breakpoint($desktop)
         position: absolute
-        right: 20px
+        right: 30px
         bottom: 20px
       a.btn
         display: none
@@ -103,7 +103,8 @@
     position: relative
     @include clearfix()
     @include at-breakpoint($desktop)
-      width: 50%
+      @include span-columns(6,12)
+      @include nth-omega(2n)
       float: left
       border-top: 10px solid #D8D8D8
       padding: 20px
