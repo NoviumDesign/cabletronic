@@ -411,29 +411,49 @@ if(!Modernizr.svg) {
 $(document).ready(function () {
   $(".dropdown").click(function () {
 
+    var
+      parent = $(this).parent('li'),
+      childFolder = parent.find('ul').first(),
+      parentFolder = parent.parent('ul'),
+      siblingFolders = parentFolder.find('ul.open'),
+      siblingDropdowns = parentFolder.find('.dropdown.active'),
+      megamenu = parent.children('.megamenu'),
+      isOpen = childFolder.is('.open');
 
-    $('#main-menu').find('.open').removeClass('open');
-    $('#main-menu').find('.active').removeClass('active');
+    siblingFolders.removeClass('open');
+    siblingDropdowns.removeClass('active');
 
-    console.log($('#main-menu').find('open'))
+    if (childFolder.is('.level0'))
+    {
+      $('.megamenu').removeClass('open')
+    }
 
-
-    //$(this).toggleClass("active")
-    console.log(123123)
-
-    $(this).parentsUntil('#main-menu').addClass('open');
-    $(this).next().addClass('open');
-
-
-
-    //$(this).nextUntil("li").toggleClass("open")
-
-    //if ($(this))
-    // if is top element
-
-
+    if (isOpen)
+    {
+      $(this).removeClass('active');
+      childFolder.removeClass('open');
+      megamenu.removeClass('open');
+    }
+    else
+    {
+      $(this).addClass('active');
+      childFolder.addClass('open');
+      megamenu.addClass('open');
+    }
   })
 })
+
+// $(document).click(function (event) {
+//   if ($('.megamenu.open').length)
+//   {
+//     if ( ! ($(event.target).parents('.megamenu').length || $(event.target).is('.dropdown')))
+//     {
+//       $('.megamenu.open').removeClass('open');
+//       $('#main-menu ul.open').removeClass('open');
+//       $('#main-menu .dropdown.active').removeClass('active');
+//     }
+//   }
+// });
 
 /* Toggle visibility of menu on click */
 $( "#main-menu-link" ).click(function() {
